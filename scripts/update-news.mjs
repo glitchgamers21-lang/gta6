@@ -20,6 +20,9 @@ const FEEDS = [
 // Palabras que debe contener el título para aceptarse
 const MUST = /gta\s?(6|vi)\b|grand theft auto vi|vice city|leonida|rockstar/i;
 
+// Videos de tu canal que se muestran en el sitio
+const VIDEO_GTA = /gta|grand theft auto|vice city|leonida|rockstar|lucia|jason duval/i;
+
 // Clasificación automática por palabras clave (primera coincidencia gana)
 const CATEGORIAS = [
   ["Trucos", /truco|cheat|c[oó]digo|code|glitch|exploit|secret|secreto|easter egg/i],
@@ -152,13 +155,21 @@ async function updateVideos() {
   try {
     const xml = await fetchText(`https://www.youtube.com/feeds/videos.xml?channel_id=${encodeURIComponent(YT_CHANNEL_ID)}`);
     const entries = xml.match(/<entry>[\s\S]*?<\/entry>/gi) || [];
-    const nuevos = entries.map(e => ({ id: tag(e, "yt:videoId"), titulo: strip(tag(e, "title")), fecha: tag(e, "published") })).filter(v => v.id);
+    // Solo videos sobre GTA (se mira el título y la descripción del video)
+    const nuevos = entries
+      .filter(e => VIDEO_GTA.test(strip(tag(e, "title")) + " " + strip(tag(e, "media:description"))))
+      .map(e => ({ id: tag(e, "yt:videoId"), titulo: strip(tag(e, "title")), fecha: tag(e, "published") }))
+      .filter(v => v.id);
+    console.log(`YouTube: ${entries.length} videos en el feed, ${nuevos.length} sobre GTA`);
     const prev = await readData("data/videos.js", "GTA_VIDEOS");
     const ids = new Set(nuevos.map(v => v.id));
-    const items = [...nuevos, ...prev.items.filter(v => !ids.has(v.id))].sort((a, b) => new Date(b.fecha) - new Date(a.fecha)).slice(0, 60);
+    // Los añadidos a mano con "manual": true se conservan aunque no mencionen GTA
+    const anteriores = prev.items.filter(v => !ids.has(v.id) && (v.manual || VIDEO_GTA.test(v.titulo)));
+    const items = [...nuevos, ...anteriores].sort((a, b) => new Date(b.fecha) - new Date(a.fecha)).slice(0, 60);
     await writeData("data/videos.js", "GTA_VIDEOS", { actualizado: new Date().toISOString(), items },
       `/* Generado automáticamente desde el canal de YouTube (scripts/update-news.mjs).
-   Puedes añadir videos a mano: { "id": "ID_DEL_VIDEO", "titulo": "...", "fecha": "2026-11-20" } */`);
+   Solo se incluyen videos que mencionan GTA en el título o la descripción.
+   Para añadir uno a mano: { "id": "ID_DEL_VIDEO", "titulo": "...", "fecha": "2026-11-20", "manual": true } */`);
     console.log(`Videos guardados: ${items.length}`);
   } catch (e) {
     console.warn(`✖ YouTube: ${e.message}`);
