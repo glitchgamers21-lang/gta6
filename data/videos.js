@@ -1,9 +1,12 @@
-/* Videos de tu canal de YouTube.
-   - Si configuras el secreto YT_CHANNEL_ID en GitHub, este archivo se
-     rellena solo con tus últimos videos.
-   - También puedes añadirlos a mano: { "id": "ID_DEL_VIDEO", "titulo": "...", "fecha": "2026-11-20" }
-     (el ID es lo que va después de "watch?v=" en el enlace del video). */
+/* Generado automáticamente desde el canal de YouTube (scripts/update-news.mjs).
+   Puedes añadir videos a mano: { "id": "ID_DEL_VIDEO", "titulo": "...", "fecha": "2026-11-20" } */
 window.GTA_VIDEOS = {
-  "actualizado": "",
-  "items": []
+  "actualizado": "2026-11-18T21:02:58.666Z",
+  "items": [
+    {
+      "id": "bagvtwS5Abw",
+      "titulo": "Transmisión en vivo de Glitch Gamers",
+      "fecha": "2021-06-22T14:47:48+00:00"
+    }
+  ]
 };
