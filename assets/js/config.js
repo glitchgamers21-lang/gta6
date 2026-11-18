@@ -21,11 +21,11 @@ window.SITE_CONFIG = {
   },
 
   // Tu canal de YouTube
-  youtubeUrl: "https://www.youtube.com/@TU_CANAL",
+  youtubeUrl: "https://www.youtube.com/@glitchgamers2408?sub_confirmation=1",
 
   // Redes sociales (deja "" para ocultar)
   redes: {
-    youtube: "https://www.youtube.com/@TU_CANAL",
+    youtube: "https://www.youtube.com/@glitchgamers2408",
     tiktok: "",
     instagram: "",
     x: "",
