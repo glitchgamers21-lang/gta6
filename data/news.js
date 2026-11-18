@@ -2,7 +2,7 @@
    (GitHub Actions lo reescribe cada pocas horas). Los elementos con
    "fijo": true se conservan siempre. */
 window.GTA_NEWS = {
-  "actualizado": "2026-11-18T21:02:58.591Z",
+  "actualizado": "2026-11-18T21:04:38.573Z",
   "items": [
     {
       "titulo": "¿A qué hora se lanza GTA 6 en México? Conoce los horarios y precios oficiales",
@@ -365,6 +365,15 @@ window.GTA_NEWS = {
       "categoria": "Noticias"
     },
     {
+      "titulo": "PlayStation Users Report Outages Hours Before ‘GTA 6’ Launch",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObV9pNTFKenhta2ZORlB2dVNONU4yM3g4ZzJWcEtGR0hDajZrX25NYlhRX3hvT3Bxc2RvSG9SZG9RaHRNS3RiQXBGZEVDQnhNdVNFa01vbnpTMUdaQ2FOQmozZi14dEpkR3dfUmxWTkcxcC1jbXdBaUs0aTRVS0pJZWJVWkI4ZUVSTHdlQTVTb0g5R2h6d0JsYg?oc=5",
+      "fuente": "The Hollywood Reporter",
+      "fecha": "2026-11-18T19:37:21.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
+    },
+    {
       "titulo": "Is GTA 6 out? Here’s where to get same-day delivery before tonight",
       "resumen": "",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWnNpWGtOLU1FRUxKNEhEQmJpZ1JrbTNkTUNzYjAwT1BseWJ1eTQ2Ny11NzRwT3FWeHBwc1dBaTdYM3NPSVR5NURUVnd2VnpZeThDWDdBaEJPYUlZR0lia0dla2oxNldLZVk0dVNMNDVBZlQ5ZnMxa1FmcW9pa01TR0JfOTY4SFBVdGZwTWs5RUthdlNNTno2UktZQU1Pd0lxQmJSeVhGS2NMbXhKWWJDV2JrR3NYSGpk?oc=5",
@@ -683,15 +692,6 @@ window.GTA_NEWS = {
       "titulo": "GTA 6 releases tomorrow. After much wait, here's what you should know",
       "resumen": "",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVHA3V2N2ak9YMXVMR19YYVA5YmNNRHI0czY3Xy1tb0c4M2lXOWRRVXJ5c2Q4YjF1d2UzeV82UXAwWVJPR0RRNXlqbGFTbTJhNml6QWEyM180ZDJzQWZWek1ETWVSc3VuNHBlc1FHanVWUXNrYXM1aGJCOWxmckJucEhuODZXZEtPbWd1UF9SZEQ1Ung1NVVaS2xYVk1PYU4wdkhHVVFWeE9NcjdoNmttLWloTGpBUURWMWVOXzd0WWVDTUdpcEE?oc=5",
-      "fuente": "USA Today",
-      "fecha": "2026-11-18T18:46:00.000Z",
-      "imagen": "",
-      "categoria": "Lanzamiento"
-    },
-    {
-      "titulo": "GTA 6 hype reaches fever pitch as historic release nears",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmJwRmJwY1FXTFNFX2pVVWV0eHE5UW1tUklvZlNmb1BENm05VkZBeVZSTnFiTG9OTkNiYVVqOEdJeVJnZ0JEc1F0amV6SVQtRmdiVlFURm5yVDI1anZxdzNFRTdYZHBEdHdmMVJMTzh5eXFTWkVIYUFUSlVnLVBpVm1qSHF3U2FjTDZFR0dHZXZ2aTkxY1RYbW1zNjh4elAxaU1DZXBR?oc=5",
       "fuente": "USA Today",
       "fecha": "2026-11-18T18:46:00.000Z",
       "imagen": "",

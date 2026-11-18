@@ -1,12 +1,7 @@
 /* Generado automáticamente desde el canal de YouTube (scripts/update-news.mjs).
-   Puedes añadir videos a mano: { "id": "ID_DEL_VIDEO", "titulo": "...", "fecha": "2026-11-20" } */
+   Solo se incluyen videos que mencionan GTA en el título o la descripción.
+   Para añadir uno a mano: { "id": "ID_DEL_VIDEO", "titulo": "...", "fecha": "2026-11-20", "manual": true } */
 window.GTA_VIDEOS = {
-  "actualizado": "2026-11-18T21:02:58.666Z",
-  "items": [
-    {
-      "id": "bagvtwS5Abw",
-      "titulo": "Transmisión en vivo de Glitch Gamers",
-      "fecha": "2021-06-22T14:47:48+00:00"
-    }
-  ]
+  "actualizado": "2026-11-18T21:04:38.683Z",
+  "items": []
 };
