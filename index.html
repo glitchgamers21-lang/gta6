@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GTA VI: trucos, guías, mapa y noticias | Leonida Hub</title>
+  <meta name="description" content="Todo sobre GTA 6: trucos, guías, mapa interactivo de Leonida y Vice City, personajes y las últimas noticias actualizadas automáticamente.">
+  <meta name="keywords" content="GTA 6, GTA VI, trucos GTA 6, guía GTA 6, mapa GTA 6, Vice City, Leonida, Lucia, Jason">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="GTA VI: trucos, guías, mapa y noticias">
+  <meta property="og:description" content="La guía de fans de GTA 6 que se actualiza sola.">
+  <meta name="theme-color" content="#0a0612">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%23ff2e88'/%3E%3Cstop offset='1' stop-color='%23ff8a3d'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100' height='100' rx='22' fill='url(%23g)'/%3E%3Ctext x='50' y='68' font-size='52' text-anchor='middle' fill='white' font-family='Impact,sans-serif'%3EVI%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <script src="assets/js/config.js"></script>
+  <script src="data/news.js"></script>
+  <script src="data/videos.js"></script>
+  <script src="data/contenido.js"></script>
+  <script src="assets/js/main.js" defer></script>
+</head>
+<body>
+  <header id="site-header"></header>
+
+  <main>
+    <!-- HERO -->
+    <section class="hero">
+      <div class="hero-bg" aria-hidden="true">
+        <div class="sun"></div>
+        <div class="palms">
+          <svg class="p-left" viewBox="0 0 300 500" preserveAspectRatio="xMinYMax meet"><path d="M150 500c6-120 10-230 2-330l8-1c9 100 6 210 0 331zM156 175c-40-40-110-50-150-20 50-10 95 0 140 30-50-5-110 20-130 70 40-35 90-50 135-45-30 25-50 70-45 120 20-50 45-85 60-100 10 25 15 70 10 110 20-45 20-90 5-125 40 10 85 45 110 90 0-55-50-105-100-120 40-20 100-15 140 15-25-45-95-60-150-40 30-30 85-50 130-40-40-25-110-10-145 30z"/><path d="M80 500c4-90 12-160 30-240l7 2c-16 80-24 150-28 238zM113 265c-30-25-75-28-100-8 35-5 65 3 92 20-35 0-70 18-80 50 25-25 60-35 88-32-15 20-25 50-20 80 10-35 25-55 35-65 8 15 12 45 8 70 15-30 15-60 5-82 28 8 55 30 70 60 0-38-35-70-70-78 25-12 65-10 90 10-18-30-62-38-98-25 20-20 55-30 85-25-28-15-72-5-95 20z"/></svg>
+          <svg class="p-right" viewBox="0 0 300 500" preserveAspectRatio="xMinYMax meet"><path d="M150 500c6-120 10-230 2-330l8-1c9 100 6 210 0 331zM156 175c-40-40-110-50-150-20 50-10 95 0 140 30-50-5-110 20-130 70 40-35 90-50 135-45-30 25-50 70-45 120 20-50 45-85 60-100 10 25 15 70 10 110 20-45 20-90 5-125 40 10 85 45 110 90 0-55-50-105-100-120 40-20 100-15 140 15-25-45-95-60-150-40 30-30 85-50 130-40-40-25-110-10-145 30z"/></svg>
+        </div>
+        <div class="grid-floor"></div>
+      </div>
+      <div class="container hero-content">
+        <div class="badge-live" id="hero-badge"><i></i> Lanzamiento: 19 de noviembre de 2026</div>
+        <h1>Bienvenido a<br><span class="grad-text">Leonida</span> <span class="outline">VI</span></h1>
+        <p class="lead">Trucos, guías, secretos, mapa interactivo y todas las noticias de GTA VI en un solo lugar. Actualizado automáticamente cada pocas horas.</p>
+        <div class="countdown" id="countdown" aria-live="polite"></div>
+        <div class="hero-ctas">
+          <a class="btn btn-primary" href="trucos.html">🎮 Ver trucos</a>
+          <a class="btn btn-ghost" href="mapa.html">🗺️ Explorar el mapa</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- TICKER -->
+    <div class="ticker" aria-label="Últimas noticias"><div class="ticker-track" id="ticker"></div></div>
+
+    <!-- ÚLTIMAS NOTICIAS -->
+    <section class="section">
+      <div class="container">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow">En directo</span>
+            <h2>Últimas <span class="grad-text">noticias</span></h2>
+            <p class="updated-note js-updated"></p>
+          </div>
+          <a class="btn btn-ghost" href="noticias.html">Ver todas →</a>
+        </div>
+        <div class="grid grid-3" id="latest-news"></div>
+      </div>
+    </section>
+
+    <div class="container"><div class="ad-slot" data-ad="horizontal"></div></div>
+
+    <!-- DESTACADO -->
+    <section class="section-sm">
+      <div class="container">
+        <a class="feature reveal" href="guias.html#todo-sobre-gta-6">
+          <div class="feature-media bg-a"><span style="font-size:7rem">🌴</span></div>
+          <div class="feature-body">
+            <span class="tag pink">Guía esencial</span>
+            <h2>Todo lo que sabemos de GTA VI</h2>
+            <p style="color:var(--muted)">Fecha, plataformas, protagonistas, historia y todas las regiones de Leonida. La guía completa para empezar.</p>
+            <span class="btn btn-primary" style="align-self:flex-start">Leer guía →</span>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <!-- STATS -->
+    <section class="section-sm">
+      <div class="container stats">
+        <div class="stat reveal"><b class="grad-text" data-count="6">0</b><span>Regiones de Leonida</span></div>
+        <div class="stat reveal"><b class="grad-text" data-count="2">0</b><span>Protagonistas jugables</span></div>
+        <div class="stat reveal"><b class="grad-text" id="stat-news">0</b><span>Noticias recopiladas</span></div>
+        <div class="stat reveal"><b class="grad-text" data-count="24" data-suffix="/7">0</b><span>Actualización automática</span></div>
+      </div>
+    </section>
+
+    <!-- GUÍAS -->
+    <section class="section">
+      <div class="container">
+        <div class="section-head reveal">
+          <div><span class="eyebrow">Aprende</span><h2>Guías y <span class="grad-text">secretos</span></h2></div>
+          <a class="btn btn-ghost" href="guias.html">Todas las guías →</a>
+        </div>
+        <div class="grid grid-3" data-guides="3"></div>
+      </div>
+    </section>
+
+    <!-- CONSEJOS -->
+    <section class="section-sm">
+      <div class="container">
+        <div class="section-head reveal"><div><span class="eyebrow">Pro tips</span><h2>Consejos <span class="grad-text">rápidos</span></h2></div></div>
+        <div class="grid grid-3" data-tips="6"></div>
+      </div>
+    </section>
+
+    <!-- VIDEOS -->
+    <section class="section">
+      <div class="container">
+        <div class="section-head reveal">
+          <div><span class="eyebrow">Nuestro canal</span><h2>Últimos <span class="grad-text">videos</span></h2></div>
+          <a class="btn btn-ghost" href="videos.html">Ver todos →</a>
+        </div>
+        <div class="grid grid-3" data-videos="3"></div>
+      </div>
+    </section>
+
+    <div class="container"><div class="ad-slot" data-ad="horizontal"></div></div>
+
+    <!-- PERSONAJES -->
+    <section class="section">
+      <div class="container">
+        <div class="section-head reveal">
+          <div><span class="eyebrow">Reparto</span><h2>Personajes de <span class="grad-text">GTA VI</span></h2></div>
+          <a class="btn btn-ghost" href="personajes.html">Ver todos →</a>
+        </div>
+        <div class="grid grid-4" data-characters="4"></div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="section-sm">
+      <div class="container">
+        <div class="cta-band reveal">
+          <h2>No te pierdas <span class="grad-text">ningún truco</span></h2>
+          <p>Suscríbete al canal y activa la campana: subimos trucos, secretos y gameplay de GTA VI cada semana.</p>
+          <a class="btn btn-primary js-yt" href="#" target="_blank" rel="noopener">▶ Suscribirme en YouTube</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer id="site-footer"></footer>
+  <script>document.querySelectorAll(".js-yt").forEach(function(a){a.href=(window.SITE_CONFIG||{}).youtubeUrl||"#";});</script>
+</body>
+</html>

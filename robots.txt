@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://glitchgamers21-lang.github.io/gta6/sitemap.xml
