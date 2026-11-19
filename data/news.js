@@ -2,8 +2,683 @@
    (GitHub Actions lo reescribe cada pocas horas). Los elementos con
    "fijo": true se conservan siempre. */
 window.GTA_NEWS = {
-  "actualizado": "2026-11-19T19:12:47.158Z",
+  "actualizado": "2026-11-19T22:00:37.932Z",
   "items": [
+    {
+      "titulo": "‘GTA VI’ finally reveals the actors, voices and familiar names behind Vice City",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUUhiSXhzSmFsWkZWdmpTbkxJcFhVQkdwcHVtV0I3aUt0M0NYdVR3NEJFR20ta24tbGRZLXQtSGk4RmktY0R1Z1E4Z3pxekhZODFtOE5zdkFzdWZLUWtubHdZbWhTU1dtRXFpXy1mOTlSSTEyczI2RGxSQTFNUHJpYmd3STgxWVd3WnFycTI3NExjM2tiOG8wNGh1T3hRT1RleGFmdGJhQ0tGaHJaNDc5dw?oc=5",
+      "fuente": "WTOP News",
+      "fecha": "2026-11-19T21:53:09.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "GTA VI, “un reflejo de los defectos de Estados Unidos”: ‘La Croix’ - Revista de prensa",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHppR0xqYlNoUG1PZURYT2NJOGxaTWgwX1ZRckJjMGRfaXJ4bVg0SDRlMDA2Y1pKRFdRZGRTcGo1QjRYLU1uTk40RjljRGdkVDlfNmNVUkhiMVJBa0lqMGZtRGNNbW5zdkYyQUVtTUJQVzVMbGhQZXRNczBocWJpUVJETXI3cFFtdXR4WlZMZHZRWW9hSDAxanF1c1V1NVZvbWMwZ0ZrU2JqcTF0MnpOYzRTZDJ6UzROd2NXb1lIcG1OYTg?oc=5",
+      "fuente": "France 24",
+      "fecha": "2026-11-19T21:46:20.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Michigan gamers explain why they're taking time off work for GTA 6",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSUZmSHVIbF9yYk9zLTRGOFFMOVhNaHg2SmpzcWhzNXJHWkRpMC1meWNWeGdlekVXY3I0TlpESEhQUUxxTXl5cGpFNGFXakpWWGhvUGowbFR0LVNWLXVJQ241WWdRMWllZThGbHJxZWd1UEFIVHpsZGdMTndsZk1fUWo2blVybU9FMThqN1lKQXFwNHM?oc=5",
+      "fuente": "Michigan Public",
+      "fecha": "2026-11-19T21:46:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "¿Cómo hacer tu FOTO al estilo GTA 6? Así puedes convertirte en un PERSONAJE de Vice City con IA | Paso a paso",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2hjNE5UOUpkXzNKRWpKblRLS0VuUzN1c3FLaWFjWVJMQm1ZTVNjOGpPeFJhNDNGdERDMFlEWXFLX3k5SmdieE5oRWxJOTN4TG50eTQ2eURFZUdQUUNlME1CZWRGeWlLMzUzaXA0TGxQODg5bGk2bFBkVkhkU2xoWVY4c1NRM2MwUDFLNWdQLThoZ2hEZUhUTGg5XzExZmvSAZ8BQVVfeXFMT252TTVncFRZR2piR3FoM0hnaFRSOXktYjJhUVNsd3NkdktSeWlleG14TUdmWmNRRVhucjJfOTdjYkJFWG9kb1ZMelYya1Ria1o3UjAxaExXU2dkVlFFUldSbGFQaXVwUWdQM0lKNHEyenExSDBpd3QzMHAyR2lsUmg5dk1feDN5WnduOGNMV3B2aGloTWd3bzhnNEIyd1VZ?oc=5",
+      "fuente": "Milenio",
+      "fecha": "2026-11-19T21:44:00.000Z",
+      "imagen": "",
+      "categoria": "Guías"
+    },
+    {
+      "titulo": "GTA 6 Launch Day Hits Different for Fired Rockstar Workers",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUxWLW9zaV9QekthX3dwTTVOd2EySmk5Y1BXWEFBcGFkNXZSOFhmb2MzT1Q5ZVRWWDh2aW1TWTJLQ2g3WlJXOHh5cnhCS2JOWGFpMHBubmFCYXNUX0lzb25xLV9BMmh2UU1qME5fWWdMUkhmUmQtYVBONTl6bGtER3ZaWGx4TEdLWE9iTzBCbkVhUkFTbXVR?oc=5",
+      "fuente": "CNET",
+      "fecha": "2026-11-19T21:41:49.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
+    },
+    {
+      "titulo": "Así es jugar GTA 6 en una Xbox One usando Xbox Cloud Gaming",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHg2WVh4S3RMWVBMU3F0N2tVblI4VC1zSWZwYjdzdEE1dllpYWM1c2FFOE95aUltZXF2ZmNrRWZvRURUOGVxQThfc3doRjN0a1I2TWZFRndUS0xaUk1nVlJHMXNlOVFHY1JWRTN3ZVdLM2dVOTlwWHZNc3NaMHhhUEtDMjBCODkwZFJ3UmQwRlIyb19oRk1ZdXFPQXcxbm5ySmJKNG5heTc?oc=5",
+      "fuente": "TierraGamer",
+      "fecha": "2026-11-19T21:40:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "El ejército ruso utiliza GTA VI en un nuevo anuncio de reclutamiento",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUU1YRU1rNlVnOUdmbXJ4VFZjOW5NMGJPcmY1ZjVTS2p3cEJnVHZNWlBuNTZWMkVzdmNCTVB4bkl0VE03NjM0azdvUW9XdnJjX1Jub2VLU2k3dnF4RlBLZ25URzZmR2x6alVtelhUbW13UlhPZlJsRUsta2hrMUk4UGlwYnU2cGp3Z2pFRWtrYmNqQjV4Tk92RGRRUURkMnpBbXZtV01kSGdmaWF1am9RTw?oc=5",
+      "fuente": "Aristegui Noticias",
+      "fecha": "2026-11-19T21:31:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "GTA VI arranca con 99 en Metacritic y un récord histórico",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55aG1wUWU2VHBKOWpxMFlnbzdKb25vNVFnT01OTVptc3ZvV3VQZThDS3JWak9Kd1A4eGZ0N2RjRF9CaWpUb2w3V1hKeVJEVDhwc09QLXRJUW41TVBmVEln?oc=5",
+      "fuente": "LifeBoxset",
+      "fecha": "2026-11-19T21:19:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "❤️‍🔥 ¿Se puede tener una aventura con Mandy en GTA VI? Esto debes saber antes de intentarlo",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdFFfWkV5bFRwMnQtRE81MVdQNEpKaEhGY1h3UWhKSkt5c0dMOHhUcXduNzVNUGE2am1DcXZxNjZ1MFdiQVV1a2IyUVlHcU9sUXYtSGxqN2x3QXBPXzJobUxNaXB5MDBCcndRNEhsaVg3djYwZWNmcER3WXBleGhFYzNzV3VfN1FWejRGQ2tPVWM3OTZfVFduZ2IxVFFFVlhLMThwZzZwRHh3b1FpaVlvZ0NaRHB5cUZYd1RYWmtsUnE3dmY5RHJVT0xuVTZvTFU?oc=5",
+      "fuente": "El Grafico",
+      "fecha": "2026-11-19T21:13:06.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Los autos de GTA 6 en la vida real: las marcas que inspiraron al videojuego",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUpyM0poSnE3Q3RFTEpJS3dnb2RuUW9vS0wzTDJtTnBiaWdzM2JiWmd4UUFqT28wakxES0FWMXAzQWxlV0wzcFBYNmZuODNGVGhreDhsOWNmM1hvV2dwQkg5RjQtdnUwRjhnVEpvVklxN09xNThwVTQ0UE5FOHhHWG41M0VCRE9EMDYzUHNUX3FKT2ptWHYwcWhaeVZkZFF50gGuAUFVX3lxTE51UDBBekxIdk5GZE9TbEQwT0s1NnFzX202LUpQQW1CaHVsaElmYm9BdVhjVWJiLTVEMllBRHZQc2dxVzljTzJJWUJ2MVozTFd0VmlMNUl6Q2M4anFXbjdPUWtmWm1NaE52cWNsQzdKVThvdElkcDhQaDZSOXdIZGQ0QXlZTFFCRGlHNUJBNXp4VTdVbkV6eVlRVm1vTmdCSE1BWUpra0lBdEttMUJrdw?oc=5",
+      "fuente": "Expansión",
+      "fecha": "2026-11-19T21:07:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Descarga gratis el mapa de Leonida de GTA 6: por qué deberías tenerlo",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTGFkLW50U0MxTUF3OFdMd0l4TmUyWU43VWxqOFc2MmtfQm9sbEtVeUZLWWJlUjFfdnU2ZGJCMmQxYUJNR0JHVWNqSktGLVRoYmJGOFBYZ2tOeWRGVF9HVzFHWi1IOE02eGFqZmJaQkVLU3NzUFRqWElWMG9VVXRLZ0xyYVJJaFNTM3pVcHp4UWlSQWlpMlduLXBQam5fM1J3azdEeko1cmtGWEZkTFlF0gHKAUFVX3lxTFB5QUFwVWtkU3plSzE3andidTI3Qjc0UmtteUItRFFBbTRkVU5vX09DTWMwelBwU1Y3ZzV5S2dLSXNVWXhFTkVVUUJHVEtWb2NIcFdUT0liUm1fM1MzMmU1N3k0WkM2ajRkdkxCMDJDOTdhTmhDZkZWSk1JT3lCT3FtQkVsNWNST2ptTjVxR0M5LVRycDE2UnR5T081cFVVcEZZQmZILTluQjZJVVdUZnpFZjRJYVhOb3poVlMxcmZYamNESWlSSUw2cXc?oc=5",
+      "fuente": "Infobae",
+      "fecha": "2026-11-19T21:05:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "¿GTA VI provoca aumento en las solicitudes de vacaciones en el mundo? Esto revelan estudios de RH",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY3hOekNDMnNlSjB1cUQyZHVqc0s4YzFQT053YnpVMXpKN0EyeFQ5R01KTkNJY1lXa012aVI2Qy1fbkFYRDlIdllLMzFteDYyU2w5TGhUZ2FoSUdmOTA2ek5XZE5lMW1HTWpLOGVsamR5ZkJaWGRBYjJtR0p0ZjFiVnRqTW5BQ09YakFMVFRockF5eUpwQXdmdGxrMTJfTzFubnpUTTEyc2ZSUW9vMENOQVZfZnFRdkw3dE96aWxuTFVuaDNNa3hQdjdhSHd3YVEtVUVHaDZB?oc=5",
+      "fuente": "UnoTV",
+      "fecha": "2026-11-19T21:02:37.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "‘And They’re Off’ in AI. Anthropic, AMD, Elon & GTA VI. ARD #210",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zamtvS29LcThnRGktVnhpOC1MU3o1X1dsN19mRDJPNWkxcVBmUld0Y3dYSDktb2pCUU5Mak16Vmt3SEFJWDFWOXh4WVg5eGJOR0pSUFJRNkRIRGdEbGpWUkYwSkV2NXh2WHJySjYxM1ZUaWtHTi0yODJSOA?oc=5",
+      "fuente": "AI: Reset to Zero",
+      "fecha": "2026-11-19T21:02:27.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "I Didn’t Expect GTA 6 To Be The Game That Tries To De-Toxify Toxic Masculinity",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjN6b3Yzc0tGMlV2bDNvUnJnS2dvTXM2TE01SWVDaVRnM0lFal9JVmRkclZ4MUxsU2pkU3ZXWWxZVS1wcUUzRi05RUE1M1hxVDF1d3Z4QTFTc2JNc1VrUDRCcjRzd0dTb1Y2MmtKc1NKOUllWmoxWXJRSzUwRVlxbXFBYnBIR2Fyejk4QTR4TnAxNU53M3dPcFBGZUN1QS16dE9MMDdoN09KSEE?oc=5",
+      "fuente": "Kotaku",
+      "fecha": "2026-11-19T21:00:32.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Rockstar acaba de cumplir uno de los grandes deseos de los fans de GTA VI: ya puedes descargar gratis el mapa completo e imprimirlo",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUXVYUGFhUUxDNFBsMzg4RU5udV93Wko2cWc1Tmt4VGlseDZNY3pRRmpENWVMX1Z4NU1manhtQ0IwbDlqSG9fWFBRQXJZaExnQ01iUnBPaUhGVmVnQm8tN3huTWJSLVJhTkVoWWRyUHVaZmNLSUxyY0w5djRMelZwcThjTzNrTUdDcmJEXzEwWGFsaXphWHVrbXNEWHNtZ21mX2FXR293STJucG1DRnZtMmotY3pSS2N1STJTLW4yNER4eGkzUlNmWW15T0ZNcFlyRUp2Tk5Hd9IB3AFBVV95cUxNaXJJcmlhQXpqOTk5S3V2Y0Joa05XRGZVcGkxcjU4Y244dVFtSXRUa2ItQ05icDlTX1lCQ1hHZ2RDQ2hfVmZScXlqYk50MzZobUJieGgtMTg1SUZqc3NtWFpROVJKUzE2T3dmZXJBeWNYLVA3VlJYbzdkcURDb2JfbV8wcUxjRWN5STIxS25LbHJRQWlTSG82WlRDWWZ5YzU4OHNSZVpCUE9fWEo1cG55b0xGa3FMd3JXeE5TcGxPd1hhUUpnZEZQVTFucHp5Y0V0aVZ0MFJJeWRCVGEy?oc=5",
+      "fuente": "3DJuegos México",
+      "fecha": "2026-11-19T21:00:25.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Así es GTA VI, el videojuego mejor valorado de todos los tiempos",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaUhTZU1jVVktQ0ZfVWdIaVZ2YnNFX2J1VU1FYnNKN003Z2M3MVpUTEJPbi1iV1ppeFFnTUFVLUVEemFJbTJjblJJUTVqQmxESlpRYS1CUXVsRFhYU1RZU1FQUno2Z2htMjlnUnJEWS1IYWpxS0VuczlOdnVnZHhrRHVZR2lFZW5ab0ZpbW9Fb3hLUUo2TDJpZDJrblFDZUJpYVJhaWh30gG6AUFVX3lxTE9Nb3dZLXZucTBNSHFwMUg2T2NlekdPZldmaXg1OVgxUjFEOFg5WkpKVmJXSEFzQUwyVUNHaXgyZDF1eFlpc0l4SjEyR250OFNIMG5FRW9JZ0VjTGdmb2tMN1p6aDhnZmxqMmRhYUdiUDFqcFpNRXp4OWFtTHRpNmMtYkZJYVg1MjNUM1lfbmlmemhMTVhBQnpnNTdPV3NzSUJ3TjVSNERGSF9hUmE4NzhwaksyRlEwMzZzZw?oc=5",
+      "fuente": "El Universal",
+      "fecha": "2026-11-19T21:00:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Come to GTA VI for the crime spree. Stay for the manatee.",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONlNVRmV2Q2FIRjl1Z3pGcFdsVlQ3Q1VLZjV3OHprV0NHOFBEX3JHNVlSRGsxZWpCU052QkRxUEgzNWNLVVo0VF9JUlNFMFNqS2VCZWs5MlFKZXRad1l6OGRaZUZCV2ZLYy1JR1FVc0ZSeFRvak5CaXVVeHF3RWVYV1hyTEY0LWhJbGFDQ3ZB?oc=5",
+      "fuente": "Vox",
+      "fecha": "2026-11-19T21:00:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "'GTA 6': Fox News Slams Fans, Clavicular & Manosphere Bros Hate Lucia",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdHZ2Z2dhLTkwZHd3eENNZnk4RUhCbXd2NVM1TGhuYUFFUXdsLW96QXlHdWFoTHJ4czQ3WHh3TXhsOF9vY19KSk8zMExQSVY3a25FRkt6eEM3bFdKVFVuRWltNWxQUDVsVHcwTGRKbFlhN3RNeDdGWnJfLVhaTXVUeTd4UUtMQ0tmZkU3amtySG5DMGxmNUE?oc=5",
+      "fuente": "Variety",
+      "fecha": "2026-11-19T20:59:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "SOUND OFF: What do you think of the GTA VI phenomenon?",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3hBNi15M0FSSmw3OWhBeDc2QkIzVVA1YjBvZTd6V1BXUkJSbWxhMHkxb1RBMWZuRG1OU3ZEM3JJQTJEanFNckdFX2pzd3lHVk4tUnFsRnR1Y0FKSjkzbTdTZVdnbG4zM2RqdURZbDZ5YTJBSWFSd1ZPOGhqdXBQTdIBhgFBVV95cUxNRkM5VlJCNThwR04yQ0psWUc4RGxWUHB5YTc3ODFTYzU5X3N5WWZtbVVjc21uX3ZiTFZrRzFPR0RGeTg3UmRsZVJuSXU1WHczRTREYnAxcEpsdXJoUHZnNl9YakxmTG44UHJfOXdRVm0wdmQwSDducG8yZkZHdUJsN3hKTkduQQ?oc=5",
+      "fuente": "Fox News",
+      "fecha": "2026-11-19T20:58:08.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Esposos Firman Contrato para que Él Pueda Jugar 10 días GTA VI Sin Interrupciones",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaHdsM2EwQXMzVzFrTUozeEJDU2N0R015RTJnNVZBSlJaQzRJMnEyVklETzg3SlBPOERiNFY2SDNvNTNRRTM4bERCOFZLMWxTRTFIZ0lJQzVxWC1IYU9yWkFUQ0Fvb0QzYWVFVWRxZ0xGT1JGaHRWc3FiOWM2X3k1Y25sZ1d3R2xHYi1DZjhmMjFBajJDUmRCUUZVV19Udmg2djNpWmdQSHV4bUNEVkxGVjdBbDNzaW1rdHgtZE5rSzdqUzFTOUh0Vkl4MUlHZTk1MExQdnBCZFM?oc=5",
+      "fuente": "N+",
+      "fecha": "2026-11-19T20:52:19.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "GTA VI tendrá su propio festival musical con Travis Scott y Justice",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHBycnhESnJlMnFSeUdqYmdIdVVOSnhNNm9Cb3JINDZ0SVFWWlZkOXdDbjhUU3FETzd4WmV5Q2JweHFYLXBuVHhsRzBxYjVzcnVDSmZVeXhYdUpleHBBSFFMTklJMW41d1BMRTZpc0s3TFBqSEtsMDdFdUx5S2FaYW4yMXVHRGx5SUU3REpqT2k5UDExcENJTmgyQ0ItX2Iyenh4QXJoX01BOU0tQ08w?oc=5",
+      "fuente": "Aristegui Noticias",
+      "fecha": "2026-11-19T20:51:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Guía de GTA 6: todas nuestras guías y walkthroughs de Grand Theft Auto VI",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56YkMxTmZkcWxUSnhFelFRWUl6Q0pGTC1UYjE2Rm1fODFrRnpJU1ZHY1loaElfcHN4aFNNV0JSZjRXeTI0Nm0wcDVVN1dwRi1JcWdOeVlWX214T2F4RkdxWi1rUlFLN3NibU1aWUYtY3JkanJJQjhBNU5QTTVJQQ?oc=5",
+      "fuente": "Eurogamer.es",
+      "fecha": "2026-11-19T20:49:20.000Z",
+      "imagen": "",
+      "categoria": "Guías"
+    },
+    {
+      "titulo": "Rockstar Just Explained How GTA 6 Could Fit Even More Content Into Vice City",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tRC1nSkNLSVEydWZkTl9ieTNqSmNlUWVhbld5ZlVnWGFZSndJb2R1WWNxa283UXozY0tKWXNkVnZTbFRfYnhIdXp1N1BpaGROaTBIc3FPZ3hwVEl1Yl9XZVc3bmQ1WmxKb2tReDVmLUR3RWpHR2lR?oc=5",
+      "fuente": "BGR",
+      "fecha": "2026-11-19T20:46:51.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "A estas alturas, lo raro es que GTA 6 no rompa récords. Ahora Rockstar puede presumir de haber llevado el uso de Internet a un nivel nunca visto",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQczVMMVE4VVVabFB2ZWNxUXh3SVRYLUVHWWZEalk3WF93bWZMeERPbWxjV1AyYlZtMkNTWV9CYU1HZElWZTRPUGtfRExMLWtraW9WOWMyZHk1Y3g5OUd0WjBScnROOWV1N3FVLV81dFN6NGRhQnJVUy11WGlFelVNZ1RaaWg4R2JGd05MWXN2clhCVWRHRjJaemZNam11VEJHZDFwVTVxNW5JUDJsbjJodlJHaEtNVktObkNQRDlpazBMZlBmSWNWYmFKVS0wX09CMWdxaXJsa0ZOZG5Lb2RORlZkZnkyOG83UWFabFpGRFNnbWZsZnRDVTlkTEJidVZpb3JuNUZGR0k5MHkyZGNNSU05Z9IBmAJBVV95cUxORTlIVTZwN0xJMy0wR3lyOHBQNDFOMGNITjV6dUY2WkRFTmpYZEFiWGxBM3dSZmpkLW1tbExUbkVPeUY4R3RxM2JGSEdHdVFOTlBDX0dlSmhaNE5lel9TeFR0NTdYOFBYMnJINjg4cHBSN0U0TE1VZ2ZpRVZqSWM2eWZsR3VIT3Y4bzNoZ2RiV045M0Rpelp5RWE2eUFWM2w3VHJsaExUOEg5eks4eHAzc0ZXNTFnVWZzbldkQWN1cEZFX1BjZGZJRm9mT25UZlhyd2ZIeVU2ZTRHbnAtVFA1TF8zbjM2RGNHa2NBSGlpMUdqd3hPeFBYblpPS0k4cEpqeFV6Qm1OZUNJb0xLWDJjWlo4aDVjajRu?oc=5",
+      "fuente": "3DJuegos",
+      "fecha": "2026-11-19T20:46:23.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "With GTA 6 Release, DoorDash and Other Food Delivery Apps Are Making a Killing",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0xQVGQ2VXZlclNXSC1RNzRpRkhTTWlpSzFwQnZDTVBmQ1FfMENuTzh4Skw4eGlhby1PQ3lMSFM2N0F6YVJYazVNR3NFa19QUEloalVwSHVSQTVTc3gtc1Q3cFFnc0lpblUtZ1lDdzVxRFZhT19mbEtQUmgxcDYwckpGQQ?oc=5",
+      "fuente": "The New York Times",
+      "fecha": "2026-11-19T20:46:06.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
+    },
+    {
+      "titulo": "GTA VI ya está aquí",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQlJVNG52MkJRX01RdjVNazM2eTdZQmhHU1Q2cHBadUxVdDZfNENyZUlsd3MtekRwYXA3Uk1UaGNhRDFNUXVwWFRGSjNnZHkxa0doTWlPUXNZMjlPcXl3V2tHZXNwZ1U2UEhFNk10TFkwNm8xdEtJWDlLRE5uUVM4RnZSYXE?oc=5",
+      "fuente": "Mediotiempo",
+      "fecha": "2026-11-19T20:45:37.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Are you taking off work to play GTA VI?",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80SjhOeGM4S19KOVlLN0M2bGtUQ0FrTi1nVm15OEdaeHZQY1dqUGk1Q2hBUGVLaVFmRzFvdmxFbVBHSTBXSllMc01wcFVNYzRKTmxiQ0NWbjdYZXlRc1hEazQ2cVbSAWpBVV95cUxPUTVwX0NWTlN5MjV0MDhKU0NKM3lIcUFWd0l6OU1GSXNaZWY1cVFvQVpRQ25PRFlsTUhWeENPd2JhdjczY0NTY1JVbFlOUkVmLTlpcVFrd09FNXFCbk9GaW4xYUxnSV9QaHBB?oc=5",
+      "fuente": "FOX 5 Atlanta",
+      "fecha": "2026-11-19T20:43:39.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "GTA 6 rompe récord mundial de tráfico de Internet durante su lanzamiento",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdVNDMnFqSWpSN21VUVJWdkxpU1Y0MjlkWm9PUlVIdDM2QkFqOVNYYkpyMXFaX0tLdTNkb1lRbVEzbVp4Z21SNk94U2hURi13dEVYY3BQWmNBYXRSVTd1WlNmRXB2MTZfeERGQjE1eHNNV2lsVzVOSmloQ0gwQmtsVHpFbjVMU3oyOTVv?oc=5",
+      "fuente": "TierraGamer",
+      "fecha": "2026-11-19T20:40:00.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
+    },
+    {
+      "titulo": "Grand Theft Auto VI: Rompe récords en un día y alcanza los mil 650 mdd en ingresos - López-Dóriga Digital",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaU1SWmZtRXR2Si03bmJ2VkkwNkFZUXNqbHlydWRBamxJeVFRRDFVUmJaTzZSb28xVjBROTRtLTI4eURjVzJUWHBhUDdwNEc1TVJEWFpmTGhidTdqZUd4a3NuOEZCcHVDcnZrUWdRQWh5ZVRRQWM5WTlBaGtJM1I4cEJOSTNXdHVLNzNwaUZEdC1uTU5TenlpN0pncUg3bU1IX29xMDBiZW8xMk56S290NDhMdE14V2NySld0ZEFqelp6SFk?oc=5",
+      "fuente": "López-Dóriga Digital",
+      "fecha": "2026-11-19T20:32:46.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Marcas y comercios se suman al furor de GTA 6 con guiños y estética inspirada en el juego",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMWJvRzZ0S2hfYWJFbXhSZDZzSTFDdEUxNXg1R0JRdnB3OXc4bUtIZG50WTJkN0RMUDhiN2RTU0E1dnhRbF9NRm5DdlFOb3o3RWV2Q0U1OTh5c3FaeGxsWjhyLWJaTmRicEt3aTJ4Q05fd3F0di1nc1ExM0dTV18xalhjNW5iLTVONVB1UlAtYWpGdmMxeE1fczJyYUREbjZmcFF1Uk5NTEltSXdNclJCZDZDMGNqSGY4U2VKbGVWVDRldFdlSF9sT3hLS3Rvb0ZMbTgxUw?oc=5",
+      "fuente": "IGN Latinoamérica",
+      "fecha": "2026-11-19T20:30:23.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Jugador de GTA 6 rompe en llanto al perder más de 10 horas de progreso por culpa de un error que tú también puedes cometer por accidente",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuWGx2UUlFU19XTFJkSWZ5ellxTENYQjRIdWUxOU5yZHVualljcVAxakNNakVLUWJiSFc3bEtfS1FyUVp5eGtFTjl6aUJTejlnLVhQSVNhMXlhQ1RiTGphTGpBdEcxY3RKNkphdFdXdmpZek9FQlNEZmJKVlJwTzA?oc=5",
+      "fuente": "Yahoo",
+      "fecha": "2026-11-19T20:29:19.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Estreno de GTA VI cambia rutinas laborales; fans piden días libres para jugar",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXVhWmNKRUxQa19fcXpPZjZldnNKRkZia0NQTnRJWkExMi11X3VraUJ3S2Y3TEpHS2kxSVBZczBocXNmUjFJc0hJRXJYdXNyQXlIaGxwOEZZRlVDalJWVFFNM0c0X0pfUWYyT3JONmtHaGdpWnRvQjZyVF9VWDNtamdQUEExZUJUYlNVN3VEdERKVnJzSFA2RHJ6dFEzaW96Wld1RjNzYTR4Q3c1N2dsbDRHcE5lTkI1eVJkUk1LTFhYbzhTc21kSVFn?oc=5",
+      "fuente": "El Sol de México",
+      "fecha": "2026-11-19T20:26:15.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "FACTBOX - GTA VI economy: $1.65B in preorders, surging console sales and workplace absences",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTd4cEtWemRMUjEydEJURlloUEd4SWY3czd2b1JCNkRZZ2RHSExRbEFpdjRPUFdCM0huQm9OanhQdW40V3VwT3lWMTU5QlZxek1GU09xRWdqRWlnMVVia0JZTmV5T0wwcDVJd1l4NVNlMjNsTWZES0NIaFYxZWhDXzhvcExWckdSSDRtMHNHZTRrc0g1YXhnZ1BxUWtZZDFKTGhjVlZtTENId1h6RzBXRk5aYXZLSzczM0dQOWpubE8?oc=5",
+      "fuente": "Anadolu Ajansı",
+      "fecha": "2026-11-19T20:24:59.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
+    },
+    {
+      "titulo": "Gamers in New Zealand try out 'GTA VI' first",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTQxTkV6cjJKTFhqSU1FX1pQNWxXdnRtcnpXaTZWUmVZRTNaZWRzOEdpT3NpM0EyY3BUNndGVGxDWjh1QnJJQjY5ZV9VMlVrbkwzX2lDTjk1Y3BUNnZ2X1p2b0xpdGJUbm5kVVJUOGFTeXR4czZIWUFXNk1iakUtVjNyNElPcHpqY3BuUg?oc=5",
+      "fuente": "ABC7 WWSB",
+      "fecha": "2026-11-19T20:24:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "La polémica política mexicana Sandra Cuevas promete copias gratis de GTA 6 para sus seguidores",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYnRxbFlrSHlUX2xQT2lMWFVuaTE4X183cEFPNjdJMUE3QTFWUmdRcWZpVEo5ODdseUZ6aE1tWjYxcUZjdWZ6LUhfYkYtVVZadGxwcHdad1RlTEcxUkpBOHNOaTBMeVpFM21raW9XSXVpSWlVUkRVU0czM1M2bVJMWndXWGNhXzN5ZlVtVkxwOEdzaUlxQjkycXFlZ29KaGs?oc=5",
+      "fuente": "Yahoo",
+      "fecha": "2026-11-19T20:23:35.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "I Spent GTA 6's Launch Playing A $5 Game That Also Came Out Today, And I Have No Regrets",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdXhjQm1IVG5oQTdNNWpIREFzek12SVM1ZDMwaU1IRl9HYUthcVBNUXZ1Q0ZsYUl3WXNLZm9RNFJsWFk2WUJkNjVidnd1U0VfaHpQc0pSanRxM0tJMDlZR0dtQ1hCbGpKei1kWU9scTlmSjIzV3ZMUmI2MWh0WmlmVENrSDQ1ZFAtZXVvdzZkSGJJWUhjV1QzVkJ1QjA3ekNhZk5VQnZHS1JBT01YMGNzREJBNVoxbGs5c01QZQ?oc=5",
+      "fuente": "GameSpot",
+      "fecha": "2026-11-19T20:23:11.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
+    },
+    {
+      "titulo": "El Ejército de Estados Unidos ofreció días libres para jugar GTA VI a soldados de Georgia que renovaran su servicio",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaEt3ZlFCd3loVzRpUHpHQm9xaHM2VVhCa0NzSVhsV2NxMlU5bG1HLVNJOTFObkpYRkQ5TTBFTFoyVzBDQjNMRDVEbzQxZTZxNW1SVEZTNFF5VDd3TG5KZ3BYNTVDN0tabVdsQVlYc3otOHk2cUdhZVhRTTZveFlGbzAwYnp4N2czZ28zSXZiR1plZnktZk5Lajctck1ZUTVhMXRxeU9XZEs1aUk5bUV5bVd2eGNHTzhISmV2TGFHZVlPYUxDZXpkQXdkWnlLUHk2dW1abGU3NGwxRVpYNDU4Y1dteUZPYjFjQVZtSGRxYXUtMzlmckNNYTRB0gGUAkFVX3lxTE5fdE9wRlFVTVRYU3l4VUc0MnJmdVhrMm1NMkJsU09qdW9BZF9rdVVtVXFDX1pNbGliVEtRckRuWG82OGpTdC1UVFJwN3IwejRIbzRDdFN3Vnp1VWU2S0lqamFZYnBSU29IZ3hUNUN1T2NpZE05dmhtWHVuTmYtNm5VdGZRaDBubTdYSnJFdzRpaGhqOU5KMEFablE3b0ZlTHgzZ09IOTB2Y0RPMWR6VFBZYnNrZENnVXJhZllsanl5Rld6SFJCTkkxS3NZT3UtdjhHd1JVRDRoSDJaUE1NdjFCdDVhZmVYaEVrWEtWOHg3ZFpkS1A1Nmp4Q1RQZ3dGV1ZTOUhtekgwQ2t5YU9Sc1VOc1VtTQ?oc=5",
+      "fuente": "Infobae",
+      "fecha": "2026-11-19T20:22:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "GTA VI desata furor tras 13 años de espera, pero su contenido para adultos enciende el debate",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzUlRxZHJjVXJiYllpcmxVSjNkVGxLbFhpVGsxNHBwa1NxdmdVWEdSeHdXM0xWN1RXSUJaOFFjZHIzaTVJb19SUDM0MlJraVRSR291OGswVndNdmlSNnJDdEdRSllFQ3RYZXNwYzIzcndjcTVHTkl1UU9wUTdNUQ?oc=5",
+      "fuente": "Yahoo en Español Vida y Estilo",
+      "fecha": "2026-11-19T20:21:56.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "GTA VI: lo que más buscaron los colombianos el día del lanzamiento del videojuego a nivel mundial, según Google Trends",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNblJTSVFycFd5WjQwVURQRnI4bGpkejBFTGFzZlB5X3kyY0RGSWlCaUJQS0NtUWxMSmVqV2Q1cmJKTzZfTW0tRlJpUDg4MV9GTzNKRmY4eVliWXlnb2tNR0cxN0NRa0tjOFJkUkpTOVZjQjVEWVFaZFVjczY3OGZLLVRabVFiUjFvWkxIRk9LLThvdGhoSm45c3hKMzRRV0lZNHdtaUJnTjZQTWwtMTRMdUJPT19ZMWVJeFBGLWk4NVBYa0NWcmVwUFZqRUEzOVl3YW9CcDRfWE9ROUVoNV92UFZkVHFLdXFZXzBwMGRZNndpR0E?oc=5",
+      "fuente": "Infobae",
+      "fecha": "2026-11-19T20:20:00.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
+    },
+    {
+      "titulo": "102 Things That Happened Before GTA VI",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1d3pvWmIyZVppMnlsOW02dGFZZ0YwVm9kVXVUbUpWcDJ1RVhDSW51QVVtMENpNTRBOXpVdUpyWjlvWm8xaHZIZlc1cU5VbTJKNlFsUmdqb185d0lDSGZLMlR3ZGdXQ2ZzRnRBaWdCNG1MR0ZCUkp6ak1WcDFELU0?oc=5",
+      "fuente": "Game Informer",
+      "fecha": "2026-11-19T20:14:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "GTA VI pulls in estimated $1.84 billion by release day, more than double GTA V’s launch record",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM1VKbFR5SEVfMThlSEFjanJXbElBcm9wV0U1Q2luQ0c3TWUwSk1BT05wWnlQbFM3dkxSMVY1eXN5OGRTRmdHZTBCSEM5YU8xUjlpNy00bU9nblQ5ZF9XS1FwOEV2T29mQmxlbDFQSkh2YU0xS2tyWmZ3b1czQkxSaHdzdUVFbUhFZEhvOHhEZFQ1TWhQbHFIVnB4ODBDbFlJLVY5OXNtVjJxRjk5bGZEbER6OA?oc=5",
+      "fuente": "FOX 5 New York",
+      "fecha": "2026-11-19T20:08:17.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
+    },
+    {
+      "titulo": "Fox News Panelist Sparks Debate by Comparing GTA 6 to Giving a Child a Gun",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkw4NWtkaVJuazZ4czloN2lPd2xyQkx0WVgxR1FFcTdXQlhXUzNqc3VBSFFSVTNQWkpJczF6Q3lTWXJUamRWU1M3Mmtfc1U1aDZzbk9lQm1SRGxKWXRrSHhodmZzcWV5R0t0bVNPQjB6dE1IV0RGYXFyVTF2aDNfY2laYS0xZ0wyT3A3YzlhdUZ5eWViZm0teDNXbklveDdQMFN5aWRaOENFVFJJ?oc=5",
+      "fuente": "Newsweek",
+      "fecha": "2026-11-19T20:08:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Emory professor breaks down GTA 6's billion-dollar impact",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FUU5DQlQ4T0V1TERxaGw3emlqQ0IySlVaZkdpM3ZRVG1VZEZYZ3RLU01saU0xMjk1aG5ybzNYMi1kY3BXZ21Jbl9YMjFMVDhKb0Q0NUZEZlduM3VrMzczM2tOSTjSAWpBVV95cUxOY0FPZGVRS0d1Y3JfQl9HSFplaVpuck56blE2UFVOX1ZnUVBnNlJacmNNeDNDZ2UxT0ducUtITWZqUlJWWUhhc1ViNzk1ZGRfaUJuRzFIalVxTUh6M1owbndCaDR2RE1oQ253?oc=5",
+      "fuente": "FOX 5 Atlanta",
+      "fecha": "2026-11-19T20:07:38.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "De Rauw Alejandro a Kali Uchis: la música latina se toma la banda sonora de GTA VI",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVUhNcTlLQUxEcTlWTkZ1UTNLQ3VWRFdzeV8tZUNLSkpxREQ4bm9URFdCTnpjcEtXdnc3NjVsVnFiME13OFpQRzJIc2FyQ21PNjhlTzRydGJfSTdaTmhZa2J2aGdYZkF5V1VyQTR0bkZPcERVYVltRXNTM2Q4T2RUejZhdzNmelVOb3BfekFxNUJMemhfY0MtVlBqRk5PbVNGMHpJRFZ4MnYzR3ZMdkNxZHMxUUE?oc=5",
+      "fuente": "Univision",
+      "fecha": "2026-11-19T20:07:29.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "GTA 6 tiene una isla secreta de perros: qué es, cómo ir y qué recompensas esconde",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUhUZHVDLU1RT2dnNklWaVZoRXcyTExzanpBcV9WM3lPYUtFWVBIaU5EVFUxYkViLUROcUNOUlNxV1VMQURhN2xQX0pLRDZ6a0FsMWN2b3ZzQ3E1bEV1R3pXOXNZSDZlSDZFd1RBRV84ME1vX2Y4eXlGemJLWi15d1NOb2xzOUFJMmlGYVl2SVFqQTdEMkpRcVlaN3ZzclNZVnJUZklFdS1fajlEajRIVlQxT2J3VXpMal8yUnZ30gHYAUFVX3lxTE56akFNLVd2RGJjV19CSldScjl1dU9WbDl3WlBJcjJITFhFT0FtRjlKREFjQ3BaSmpwNDNKTWJGX2xsajA4Y3cyYVhhLUxMNEtDTnE2UEVLZW9xXzNRb2N4amc1Wk1SeURHNFM3Yi03cGRsdV9DTENxak9xQ2t0SGtpaU0ydng0ZUpnVzR2MVItSEY3aF9UVWpsXzlodVVZRm1QcERfOHBFZURLcTkteEZsdDJ5T1l4cGhTWXRWMm9KQV9uS2F2VkNtTlVMM2dQRVRIelVmVElzVQ?oc=5",
+      "fuente": "Infobae",
+      "fecha": "2026-11-19T20:07:00.000Z",
+      "imagen": "",
+      "categoria": "Trucos"
+    },
+    {
+      "titulo": "GTA VI tiene un desafío enorme: estar a la altura de las expectativas tras su millonaria inversión",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa2xHRFVHYUd0Z1NJQVZNSlV2cUlRUXhlTHlHRU44RXRNdWRJd2Yzc2lJaV9MMWNvRnU5RE8xWXN5RnR6YVd6Nll3SUpPdVdhS09GOHR2Sk5pMWF6blo5cnBhN2J3bFZDNWgxSUNtZ3YyVDdpZzUtSEJoTllYcFl5YWxwSzFnclNRelRXc1o2d1V5eEllZ1JlQmNyNXlhSFNscGlCRDgtQWxmNS1ac1cwMDVMbVdrYlRhZVU1ODR6blJxNktPa2l6RWhtUTJydHNfUGJERHVnS2tCV0JGTnfSAeMBQVVfeXFMT2lreERQZTU4WDlsY3RjXzVQbEVnTE1weFR5VlJJRDhxS2dlNE44Y05QWklDVkt3Smg1bUJTLWVmS1RxVzZucGNNN2dDRTFKYW1PU0hjWHM5UDJhdDlmUGNGLXBFcGY3QzRzSGpjWElodEVPWUhGLTRDNzMxZGRnUGptVjhnbXBPWXZBUU5sS2p1YTVIUFpRZEpWVXlwYmctdEtYOG0zR1NUMV9fcE1Fc1FvSlhKWF96a1ZQWWlZdzV6TXFoLTY2NlJCMl9SVDU4c3g3WFcxUkpOa00xZHV3c0xMbnM?oc=5",
+      "fuente": "MUNDIARIO",
+      "fecha": "2026-11-19T20:04:28.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "GTA 6 Mandy Actor Reveals Her Identity Amid Players’ Obsession",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85XzdBN0xqSUlSWDhPaWltRktKRTJtVE9sUHhUQmdpM3dpZHROQ1d2Z2FvZXhUZXZCaFZnMHpLcUZES2ZhTTlocU1ybE9KenQwdVMyNl80elBpWTR4NTV3NmVjR29BYnh2TE5yWXhpREY4Zw?oc=5",
+      "fuente": "VICE",
+      "fecha": "2026-11-19T19:58:44.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "¡Rey de reyes! Los 5 récords que ya logró GTA VI",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YeTc0ZnN0bjcydlJEb0RVb0xldHV5VXFzZmZ4NWw0cndyY3FTQndPZEVqdTA0NzdGcEQySUwtY3lRNmZYY0NVTHlibnpVMEVYSTdfN04zYVNsa3hnSC13ZFNnZkZjdm5ldVAzQ0JCWUJ0XzQ?oc=5",
+      "fuente": "Sopitas.com",
+      "fecha": "2026-11-19T19:58:31.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Tyreek Hill GTA 6 cameo: NFL WR stars in video game with familiar celebration for Dolphins fans",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3UVozOU8xQzlobUUyZy1Yd0J1NHFESUJRRFE3NHNjODlZVW5EcGZ2SDlDWXBTU0VLb2trREVRYXVuV2xRakZNVXpjczlQYVlTU0JjdUFPNWNia3I3TmRaUmxYdFJsLVU3RXp3OHZuQlI1cXR5WmtzaWdoMHo?oc=5",
+      "fuente": "Yahoo Sports",
+      "fecha": "2026-11-19T19:56:40.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "¿A qué hora se puede jugar GTA 6 este 19 de noviembre y en qué consolas estará disponible?",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbEx4bDhvZUNwanFEM29jNGhEZmg1RG5qTWNHVGhwdmRwZWozek9SUDd2bFNKem05MmRSLWdwaG1PUU13dk9Na203cHoxQnFxSl8ybEJjcUpxUUFhZTdVdk5RVW8zSHFyWGM1RWdCU096Z1FKSS1nNXBmN2ZYYnZlbDV4U2dOTGFUbmRseWZWVmhQVVBNNmo2WFZKeldRUzRFVnJ2bGx0bVJFNF8xbUl1aHd4TG81eGxVQ0pxbNIB0AFBVV95cUxPZVNoWGZ6Vy1zN1I1anpPQVZrVGZtelJLamlQU0JDNlNHQ0JOMW14bVRhbHN1R3dQZXFaSUlDSHdLdEs2SjBpeWk0ZHI4ZWprOXp3alZZdEZjelVNUXZKakhuOWJMa2VTbjgtRjZTNTh0azJWdFJESXNwV3ZLTjY2S1ZpNG5yQkt6cE9xV2dxUnhndUxJeW9SR1h6WEljUHM5enhxY0F6bnRGV1pBVzlZRjh0bGptN0k1WlNSYm9KNTJQTTN0UklNbVdpWVZhMXA2?oc=5",
+      "fuente": "ViveUSA.mx",
+      "fecha": "2026-11-19T19:54:47.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "What time can you play GTA 6 this November 19th and which consoles will it be available on?",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRmNvX1Y3ZFVqa0Q0SWRJWlFDa0pSQl9DbGxlR2UyZjg3T2tQUXBFTlFyX2V2YWtfdGVoc1V1dXNYby1ZY2MwQzhiTTl3dHUzNmNCeThITUR5elVYV1VQYkUyYTJ3cXZrNGZpMkRkOU1uOGZGUW16ZGFTbDRzeUxkUmxadHVaN05XOE5XMXlJVkRic1RSZGxlUGdEc1ZiM1dHRXlfb2V3eWdDSXQ1TU5oalpQR25ZZTJvZ1lWZG9fRDk?oc=5",
+      "fuente": "ViveUSA.mx",
+      "fecha": "2026-11-19T19:54:47.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Your GTA 6 car is your Red Dead 2 horse, and it's perfect",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRnJjdzVQWmRwNUlxZlM2XzZJcUpKUUlxUzBZdnVoMTczd183QUtacGxSNHRhUVRWYTFyc3h4MUpjdG5IcmozVVZldENPSGZMYXdnVHdOM256ZVdRaGdxc28tQ205TnRMZzJWc2w5ZUttcERwRWUzcWdOOVVCaW84VEFhQi1TYTFDNVFMbFRUcm83NWs1RTg1YUV3amNBczBqcThWaHpn?oc=5",
+      "fuente": "PC Gamer",
+      "fecha": "2026-11-19T19:54:22.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "La función oculta de WhatsApp que permite crear imágenes para colorear de GTA VI",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOE5RMEJZR011VmhHU191VjA0NGNGUzRvVmNFSk9oVUNRSVF0MXJRNGZwVHB0YmFadlhqYmdQNW5YNUZtbWJwOW1ONE9nT3FTOGI0SWEtdjdpMGtwTVZKb3RaNF9lbm1LMGVsWTQtU2s2QllwSzBxSk54bmhlYjVoMFlVMHE1Szc3MW5wYXphbHFSdFNyTjFwcUtZbXFYYnV5VWp4Z004dDM2ckxjSVAxOUw5ckdVLXJiaDk3NzNZMNIB2gFBVV95cUxQZmRzUG1EZHI3SXZTTXZtaDFFSGpKMXhYVEVXdWZ1VkpGVTk1TXVYSnN5dGQ3SURxS05aTnctMGhZVVlscXZmN3NNV1p3TlpRQzBYZXFaak9IRHdZNldMd3R6eHp6dTFudzhBdnVCLXMycGlzUlZKaXEzM3EwNUxZOXJBeU9rWlhUVW51WGRLLXRMX1lrVnhwXzluYTktRHRXWG1QMENITGo0RmRIZ2FUYWJXRGhpdFhPNWQta2x5OUVVMFc5ak1NWjhuWWkzLTloN2d0T2dvSWZlQQ?oc=5",
+      "fuente": "Infobae",
+      "fecha": "2026-11-19T19:50:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "‘GTA 6’ Sales Have Already Surpassed Christopher Nolan’s ‘The Odyssey’",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOVJyTV9RWWE0RU02Mk9ybGh0dGdFY1RSY2hyNWpwVTY2N0NJQk10dlhKV1RiVTYtNEFSMGZta3QzbmtqYXIyYkZzSTRRQXBHV2pLdUdKajVSQ3JpaUlzSWN1ZXBHaGp1VDAyTUlvdzcxNV9RaF8xcjlud2J2MGMtTHFQVEp4bXg0VWd3dFZlVQ?oc=5",
+      "fuente": "The Hollywood Reporter",
+      "fecha": "2026-11-19T19:48:16.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
+    },
+    {
+      "titulo": "Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa0pjQllCMzlBc3hVZUZsQVhhOWt3VUJtVUtlQmc2SmwweFQ1ZnJEanc1RVVaR0FmUEt5blNJRmM1cE83aW9CWlFkQmo0SXhobHBybFVnMmg5Vkh4VmNfeTYyVWo2TVh4djUyeUNfVF9ibS03MjRNMkJTOHJsOTliTEw3TQ?oc=5",
+      "fuente": "ESPN",
+      "fecha": "2026-11-19T19:43:02.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "GTA VI desata la fiebre de “Vice City”: Su lanzamiento inundó Miami",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTZUak5rSHo3dWdYMDV0eVdiYk5ZdGVQbTByWVdNV0VYOWhzX1ZONlZqb2dJdWxTNHB4UWItaUVCbDdxcGVGblVhQUxlVVN6YklhbjFvSlhjYlMyUmI1U0F1LU5UYzVMM1VVX3dIOWd1al90VUZSXzN5RU44T1Z6MXA0cHFpVWlSSDRQejk2RTBBMGR5UVhsQlJSWnZKSlFaS29NLXc5ck1yV2I4MTF1VHkwV00?oc=5",
+      "fuente": "Univision",
+      "fecha": "2026-11-19T19:42:00.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
+    },
+    {
+      "titulo": "Here's how many soldiers took the Army's GTA VI deal",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoQndrZ0xEZENVQUlSM1dVNkRkaHBYUkpRMVcwYmxnejJudDNEbndCS2VLVFVfQktkcnp2a1IwWG1lMi1LNmF6NEk3YW9rMGdWc3gybVVtSjQ3S3RuX2ZYSVR3cEtsNjlROF9tag?oc=5",
+      "fuente": "Axios",
+      "fecha": "2026-11-19T19:35:16.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "GTA 6 ya a la venta en México: donde conseguir el mejor precio",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTkR2Q2E2cnEzSXI1RnpEM3BWQVdUWFo4OXdZUVYzM0xBNEx3eXRnR2h2ZjYtV0N4WGY4N0x4Unh1cVJ4SWtxN1BLYWs4N0dVbDM4V2xiOWFaNTg1T1hnOUVzTXloQmdxd0tJZWIyZnJ5eE50TXAyQ2kxZHdIVG90ZmxGVWNOUjd0Y0lQNmFB0gGTAUFVX3lxTE1ZdDlNbWktRlMzNFljMW55NlQ1WkRTQ3NZSThtdllOZ3Z4bUFaLTdKS2M0X2dFS3FNSnVXTWpyUE5Lei1XLU0za0pSU0JYdTNDX3Zkd1gzWXZWUVFNQm5OamhPZ3o3d1ZkVlA2UnJuNFVYaDRlaVpYSFVJZEN2eEdQQUlDSFFYVHdPUS03dnhDVmd2Zw?oc=5",
+      "fuente": "Xataka México",
+      "fecha": "2026-11-19T19:34:22.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
+    },
+    {
+      "titulo": "Grand Theft Auto VI: ¿Qué hay detrás de la fiebre digital de los gamers?",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaGlWMHJ5RzVTVmVQN3VBaG5UbEpwVTZaVDhpWWRsS3JBV1prYXNJS0VlX2d4M1ZxQUlNdklrQi10OW5YcGNiZ3MxMVpzS0lFcEZwdF9wSnRibjk4ZktrejdVZC1YNVlBSlBBQ205eUVtRnBfNUFsWnU0WUFhVVJmR3lDeFVUU3ZacmNRRmpCNVNUWFBpNFQ0U0xRME9MZGhfRF8tV1RGWmhLSFhMRk5XTndzTWcxanNUYzVXa01Ba0lkUGl5Q29wcXRxc2lxaDhmSkE?oc=5",
+      "fuente": "Univision",
+      "fecha": "2026-11-19T19:33:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Blockbuster GTA VI release shows cultural, economic heft of video games",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmVUcjFqVHQ3ODNqUlJONHpXLUxoWjlDVzNha1RoYnVPT2tnV3U4X2dpXy1XVE9WSlYxYjZUYUwxbXJwYU9QYW5DczNkLWJfS3lHdTBQaF9seE1icnpTc3Zwdzl5eVA2bjBLdUw4bFd4UXMtLTliWmdFYzcwNk9iSDZJV21OWVdVZGJvYWNWSzd0Ukx0S3NqN2NZN2dUeWNUSEt1Z1F1cWZmakFTT21JdTB30gG3AUFVX3lxTE05cXJ6SFh5dlBPY1lXTDR5OEY2Nm5INUZ2SGozTWVZUHNINU5lUi1YMGwwQU56RU4wZzRScUVRTmlIdHZsd3dQdF9qRFNNaFVOeUJyYnI2VGVaUWo0amJHQXRDczNqeE5vS0RqNW94R2tFZVV5VWhqcVJGWFQ2U1ZQUDl1Tmtpd0VubWlvamNQUWgzQTFzcVNHaVFZdlVONlc4c09sc1Z1c0FJWlFiZ3VxZnN3azhiOA?oc=5",
+      "fuente": "Al Jazeera",
+      "fecha": "2026-11-19T19:30:40.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
+    },
+    {
+      "titulo": "¿Qué es el 👠tacón de GTA VI? Conoce cómo llegar a uno de los lugares más buscados del juego",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVGUyOWlqdEhjWWp1Ym5FUEpFVzRhUzBleC01N21HdElnaW5BVnlZOXpvSEhKaHF1SXVpRVpDMmNJUERsUFl3MmRTZ0RmU192TFFhZV9wMEp3eXQzTEN1d0VfTVA2OVN2S0FSdHFHWEZ2LWpqX3p6ek05ckZwVG8xQURNbTR5RHA3bmRKY3JZYW81NFp0QW9SOHVFQ1M4dVBvdzNPRzNLV0Nyb0dzUnI3Q2ZoMmxZMUZqbFV6a3hiZVRzcHN1eVRnaXlhcWI4YUZHVzdTbA?oc=5",
+      "fuente": "El Grafico",
+      "fecha": "2026-11-19T19:27:33.000Z",
+      "imagen": "",
+      "categoria": "Guías"
+    },
+    {
+      "titulo": "Quiero jugar Grand Theft Auto VI por todos los looks de moda (sí, es en serio)",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSThIV2FBSTNrTDFQVVBTUzd0ZnhVbEQ0b1pHSnBrVlN1ZlYzOUZjZmVNUFh0bWdJOXVKNGUwV3I1dUxRV1JodEphcS1hT3ZuTHVVVTNiX0hRcjhsTmp2R3FoRTh2amhnb1pBS09WeEVZSjR1Vkg3dzFpVTN2TjYzWGlMNA?oc=5",
+      "fuente": "Vogue México",
+      "fecha": "2026-11-19T19:25:54.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Erik Spoelstra gives Heat the green lite to play 'GTA VI' on off day (like it mattered either way)",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXhfdjZ2LXlDd2lybXZUczBBYWQ5NU1KR2JIeXpCZ1E2d29zNzk2cjRSMnhneEI3cWlYX3RCeS13SHB4b3luUWk0WjZuWm5kcm1GSHFqWFBRYzFFUVFKYmMzeS1pN0h0MzdBNTVGTHplTW45S3pYV0MzbHQ1VjFvdDFxNDNJd2JhaFB6bUlteTVILXZxQjhsb1FFUQ?oc=5",
+      "fuente": "Fox News",
+      "fecha": "2026-11-19T19:25:21.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "'Time flies': Sports world reacts to long-awaited GTA 6 release",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ25iYUdRbDhWZHhRS1pVWW9pQWRuTkYydzRKR25OU1A3b2dpQUhIRFZXWlJLODRaeU9taWVla3lnYXVZcHFhOVNNWUpzWGhkbDVYUkpQaDZoMHdySngtYkdzbEZBQi1WaXlyNjctaXI5ZVJoMXZpRWNyOEUxemVRUDJNcTJpd25KV2xPaUdZUnZkLU14d1pURmlWRk5QR1lKeG5QNQ?oc=5",
+      "fuente": "theScore",
+      "fecha": "2026-11-19T19:25:12.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
+    },
+    {
+      "titulo": "RydeMe, Sahara, and WhatUp: 'GTA 6' is stuffed with Silicon Valley's evil twins",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOXpmNmJKTUh4UGlYbVJaUVJ3c1B2ZlM4aHh2Q0Yyc2Vzd1NUTnplX3JIdzFIWFJaWGlzSi0tR194Z3J0dktTVlhxTFlZT0JOcUVXNUlnanZ0UDNIUWdDNFJuV1VzZDFpQmljNktmS3haU0RDUkhBbF9PNHoxNDJ6STVtOFo4NnJnbHhkUGVwSEJ3VmVZU21QcjkxYjlkdGhhcTU3N0l4OUlGR01IcGc?oc=5",
+      "fuente": "Business Insider",
+      "fecha": "2026-11-19T19:24:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Kalshi hired its GTA VI 'researcher' after receiving 30,000 applications",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOU11OFZvS1Fpa1RSMDVYdXBSOTNtWnRTcFM5UFpHMDE0dXFBVkNHMm94LVozR1FQaGl2LVBBQWlGeV9TUDkwWUh6QjhqQ1JuV2k2UkY5S1Q2UnNqRnZMRm04c05OLXhIS1JUaENFdEhFWmNWU1NDa0xMQUdrZjZqeURtZjRfVXhSZnBROFF1cFdCb0NFNmFVWEhHYzA3dUh6ZlU0V3Y4clpEZUJuRmR2dzI4S3B2VTdKLXVObm8wcUhwSVB6Z21vaA?oc=5",
+      "fuente": "Yahoo Finance",
+      "fecha": "2026-11-19T19:23:48.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "How GTA VI’s Vice City stacks up to the real Florida",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oWHJSTDk4NXFVTWNELUFzbmNkYnNHT0ZRT09YU3UtQlBMcVZiQi04aFZ3QldvY3pETW56b3dabjE2OGVjdWlZOWpOWll5VzJQOWhlMkJtU2hsQlZkeFM1Tm9QdkpnQ0dHdWxpaTNn?oc=5",
+      "fuente": "CNN",
+      "fecha": "2026-11-19T19:20:47.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "“Vayan a trabajar”: critican ausentismo laboral por GTA 6 y aseguran que se perdieron miles de millones de dólares por la caída en la productividad",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQjNON29yWWUtOWZyMkVqZ3c2NHhnc0xaWDE0OXVRUnZWU0VqREVQYnZKdjVzNWZ3WmtWUTdSOENPSU1ScEZrb2FMR1NpaWhmQzZyTkEwaHExOUpQQXpYejhOTEZRbll6TXU1QVpEbkp4cFdvT2VfdDlDRGFxejYxczMyWjgwdUw2SXN5aF8zcjJHNU44X0dUN2RsRTRfRmZ5Sk1iNW8zYzdfekpEdVhSemthenh4enpNcU1lZHZQUmcwWE9JVS12Q0ZodnRjQVJtdmR0b0xpTUtIcE1jR1BBRDNjSDFUMXlZMEdfVlJkdmR3dUczZnhhMUtiZThsWlYwcXVEeFE3ekdhUQ?oc=5",
+      "fuente": "LEVELUP",
+      "fecha": "2026-11-19T19:20:44.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Puebla en modo GTA 6: viernes sin clases, eventos gamer y la Catedral estilo Rockstar - 24-horas",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOFFoWlUyRHpVdjNJS0NBcUJjT1U3VnVObUFtREJoNWtfT0g0Rm8zNW9GaURVeTNadnpqNVYyMTNFYXpsYXhSRGpOSEFxWGpHX3VTbjF4aG9WUU94ZlZhODExc1MtblhZbVByb2R2UUVaQnAtSzRhSHBlTkVlRlJ5MURzLXc?oc=5",
+      "fuente": "24-horas",
+      "fecha": "2026-11-19T19:18:32.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "¿Por qué los fans de GTA VI se quejan de los altos precios de la gasolina?",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZFFFdTlOVlptTVhhVEdhSEV3SWlpVUM1dGZpaDZMNFczOGVId0pfUXItUmw3TThCWGdlNllTbXdFZFdvYnhrUEVyMk9IVm1CS3plSkNQOEVhelV5eTdoRDNjbWtnZmxEVmkxOTloVlJWM3UxR2hscVRrdzFxalB2azFRRy16dXVQNHVUQWdybVZZQUtnMnYzWmFrdlV0cl9Id3RDeHJTbGFQUDFFdy1LbGpzcHgxb3ZsY2J6UV9B?oc=5",
+      "fuente": "El Financiero",
+      "fecha": "2026-11-19T19:15:00.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
+    },
+    {
+      "titulo": "Take-Two se dispone a pulverizar récords de ventas con ‘GTA VI’",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYnM5YkFhVWhIZXZ5Qy1zSDQ2WlJHUU1scEJ2TmU4OUZfV1d2XzlzYU5kaUdudGptSkFHelZUVHNMdmQ2VnRRbmY1ckJVcXR3ZnJCQUcwdlRqcExTZEdEaUdMMjJ6Yk90MGtkVDhIbk5FbnJnSExXaEZaT2RiamxBaXMwelVUUTcxMWJTdw?oc=5",
+      "fuente": "Forbes México",
+      "fecha": "2026-11-19T19:14:00.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
+    },
+    {
+      "titulo": "How to play GTA 6 in a warzone",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1SXBLMlRXZVhaTGtxR2hPTkNIOWZMYXB4bEZTVEh0NU9TWFdOckdkcEpabU1SamFuVXNLTnlqNzFwUEtIR1RRaUZvekxOSFU3ZXkza0NOT2hjYkZCY2VjM0F1RVY2QWxBcG5B?oc=5",
+      "fuente": "The Kyiv Independent",
+      "fecha": "2026-11-19T19:13:27.000Z",
+      "imagen": "",
+      "categoria": "Guías"
+    },
+    {
+      "titulo": "Tras jugar a 'GTA VI', tengo claro que Rockstar ha hecho el 'GTA' que quería: un 'Red Dead Redemption 2' con coches",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU1NRajhBV0RId2dpWlR0bng5V2V3cDM4Q2M0Njgxd0pwYUU2Nm5sVW1zUWwzZDBfVlRUUVY0cDNQcWZGOTZ0WnRJMHJvS3ppSDlzdlhkYVFncUlPLTJlUklGWjhwSG9lemQxUGFJdVQwZ1ZiLVVjT0otZHRvd1Z5UV83OXBseTNLb21UclRwWWE3dVJDVmNrMjhtVDF6RnluNl9ZUDhiSkpzZk0tZWIzYUlRS0YzVWk3WExKaXBIcUxxdF9BUkHSAcsBQVVfeXFMT205TS0wVmJWVTh6d3gzQ0dWZFh1cjBUZHF3cngya3h3OFNJU2kta0JxdTVrZjNmTDZoNVYwcTFLMjFxWVQ0czhTeUtpOXdxb05rT1V0TlV6U0J1ZDAyUE5ZQll0dUxCTWNXamNMR3Q5N2xyUThLdkpEVDA3X29GYWRtMzQ1cUplUUstdXEtcHhVa0Y5RHJiYXJ3Ml85QTlyLWtKaXcxLUhJS2FYanlTcWw3bTlXVDFYSlo4cjRNM2Itck8xcG5TWlVJSGM?oc=5",
+      "fuente": "Xataka",
+      "fecha": "2026-11-19T19:12:12.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "GTA VI: ¿Cómo Impacta el Lanzamiento del Videojuego en la Economía Mundial?",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0E3TXlzSFJfX2VzWHFubnZSOU1EdlJSeWttZWo3RVROS3VMcFhUZFZ2SzZYbHJ4T29WSDNvb3V6LUE4NVFLYlRkM3d3aEtoWlhnS2t4TldkWENfUDZHUktaRHVCZlZja3RmX1owdDBFYWluTy02UDJvRUFXaUVkYWNvcVBNdlJvdVdZNWxacUVJelJEY3Z3bE1ld0NFMGZoSmUwdEJoZl9QWUgzVS1BSGRlWkh1Q01FRFcweUx0dUVpTjc0Mnc?oc=5",
+      "fuente": "N+",
+      "fecha": "2026-11-19T19:11:23.000Z",
+      "imagen": "",
+      "categoria": "Guías"
+    },
+    {
+      "titulo": "“GTA 6”: Qué tan largo es y cuántas horas para completar el juego",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlZLdmYyUUFnV0VTX0J3T3lIYUkyT0JCOE1WVGF4QzFFWkMwNExfZUhnT19jTGlNdWxZNmZmeEdhOUo3ZkJzdmIyZ3NJNFlnbzJ1T2N4dFhmM2dkM1dBWG8zak44UFBCa0Q3VUhMVHMySnVJN0xpMzFuVDkybmd0NGZhZTlLUWZ5YWVaMUNlOGZiYUppZzhUMnFDMjNYbWtxNjhF?oc=5",
+      "fuente": "Chic Magazine",
+      "fecha": "2026-11-19T19:11:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
     {
       "titulo": "Las películas que inspiraron GTA 6 y la franquicia de “Grand Theft Auto”",
       "resumen": "",
@@ -14,688 +689,13 @@ window.GTA_NEWS = {
       "categoria": "Noticias"
     },
     {
-      "titulo": "Here's how many soldiers took the Army's GTA VI deal",
+      "titulo": "Lucía Caminos, la protagonista latina de GTA 6",
       "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoQndrZ0xEZENVQUlSM1dVNkRkaHBYUkpRMVcwYmxnejJudDNEbndCS2VLVFVfQktkcnp2a1IwWG1lMi1LNmF6NEk3YW9rMGdWc3gybVVtSjQ3S3RuX2ZYSVR3cEtsNjlROF9tag?oc=5",
-      "fuente": "Axios",
-      "fecha": "2026-11-19T19:07:50.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yOEVKVE9OcXVfZlNpaDlUMlk4bHVTMy1DNV9PUUlOWFE1YW0zNkJwYUM4cTU1UXlwMFI0cXZCal92OGRxQ0xTYzYtQ2FzTk9QUnppWko2U1g?oc=5",
+      "fuente": "BBC",
+      "fecha": "2026-11-19T19:07:19.000Z",
       "imagen": "",
       "categoria": "Noticias"
-    },
-    {
-      "titulo": "Críticas a Lucía Caminos en GTA VI exhiben la misoginia de un sector de jugadores",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOTFQdVgyeFBVOTF1bmd6MkpIOHp2ZHhKNnRmV0p0SXhLanFDODZ1aXdBR3JSVWRycWlqRFZrOFhKRHh4Vy1LeGlSZ2RpblgzSGVkdXc0dXJBRk56VldGb2Z4aldaaG9XQjR4RzdyRzhqd3I0WGVES0dVM29JOXF3b09xMmZBbzBDWThNeGtyTjRtbEVOSUJiT1BWc2tPbUVyY3EwSVYyU0J6NWkwT0Z2UjlScndJV2s?oc=5",
-      "fuente": "SinEmbargo MX",
-      "fecha": "2026-11-19T19:00:35.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "GTA 6: Director de GameStop critica la ausencia de discos físicos y acusa que la industria \"está eliminando la competencia\"",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbzZJcTluRlBmd2tmdDIyVFFaVzA4ZUpoenRIb2pDUDVST3JXZzFoTDBKLWRPVDJmQmF1S2pPOUZMUjAzX1pOM3dYYTMzUWtoeUtPcFo2MHMwa3lSUC1MbjZMcUxvYjNVN1YxUmRob2JLTTFDWmFaX2lyZVpsZWtQRjQyclBVTkFVLWYxNzNoX3daS1lhSVEtbkl0QUg1R241c0E0dFJVQUlZQkM2cm8wa182UlhvUEc5Q0F5N2hsZktQQTNzd2Zuam9tN0RTaU05RU5iQThIN3VtQnZ0Z1c5NmJzaw?oc=5",
-      "fuente": "IGN Latinoamérica",
-      "fecha": "2026-11-19T18:55:43.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "‘GTA VI’ recaudará en una semana más dinero que toda la gira ‘The Eras Tour’",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDcwSFlXZlV6T2dvUmR3SzRnWnNMWEdudHhqVWV6VjVsMUZpdk81NE1mNEYxRmt0RUptSGFidm8ySzJpQ29DUDdnMWJJUktJdW1idDBTb28xMUZlcUNzWUxPMi1UME1MNGdCM0R2T0tBcjAydlZFOFV0a21lU2hfOFF5VWlGOW5BTHlJV0FHcWRNeEJFa0RRaGJFaGI?oc=5",
-      "fuente": "Independent en Español",
-      "fecha": "2026-11-19T18:55:00.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "GTA 6 (Grand Theft Auto 6) - Tráiler oficial de lanzamiento",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX3liUmpTQ2d2MjhMQ3JScVY3Ml9lZWJ6WHlKTk4xOERLVzdPa285N3ZMeEt4R21kaHp6aFVVeWpNTjRKMktwUHJVeEs0cDVyUDBzNTUwY0ZlWVhIZDgzaEF3Y3RMMTI5WFdNcmU5N25UcWQ3SmxyeUFnVEx2S0owalNEd0xHZnZIVkFEVTFDTTN6N2h0RTRUNHhiRGtnTU5UQlhGT1dkMA?oc=5",
-      "fuente": "IGN Latinoamérica",
-      "fecha": "2026-11-19T18:51:35.000Z",
-      "imagen": "",
-      "categoria": "Tráiler"
-    },
-    {
-      "titulo": "Reel Talk: GTA VI has millions spending the day exploring Leonida",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGtmNHRnT0k5UDloU3VCQUl6SE5SbFpuNmlmTG9YOVdKUEhrMGE3NFlEQlZOREtTRklfWGFXTklSOGRIRTRsaUlwY1gwY1NfNzNSVGtyWGQwM2tBTXY0aHVmQ190NkFiNWpnTTdCYzVVSkp4SFdYX2l2TDFlQXF3eFlZNmVFMXJMNmNUa3Z4OUx1SHpDX25DeA?oc=5",
-      "fuente": "KOLD",
-      "fecha": "2026-11-19T18:49:00.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Éxito de Grand Theft Auto VI, Nvidia busca reemplazo de Huang y otros clics tecnológicos",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUjNmZnRGSE5vMFc0V2NKR3IwNGxFbGN6YUZfWHllb1h3eWl4dE1wcVAyQlpyU2RoakRqd0ZCOGdaUm53bHVzVTczTlFNaE5qVjdDeW9DcjZsNEItOWNkRnRuRE5qTUxRdnR6VUJ5SnlGUmt4RWE4Z0g5ZGdPbU9hUkEtb0U?oc=5",
-      "fuente": "Yahoo",
-      "fecha": "2026-11-19T18:48:53.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Grand Theft Auto VI y su curiosa conexión con el campeón de la Premier League",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb2NUWDR6RzhSWjgxZWNxQU5udzBwTFBVQ1hsZUlNeWdZSFJDT0NEYm5LWnViVGRibEFpdGxDRnBUV0N0WTBjaFVvS21vWWljQlV3RXpDcTBrcjN1MWo4YUx4YXBPYmV3eWx5OHRpVTBEME1qdW15RHcxczVtOHgyYlE4TWM4U0wyeEx0a1hkaVlKN1lqRklLOVByeVFyMHVJRHF1N0IyNXJoVFFtOEJfejZ4bWdJZw?oc=5",
-      "fuente": "Sopitas.com",
-      "fecha": "2026-11-19T18:48:25.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "El creador de Deus Ex critica duramente el caro desarrollo de Grand Theft Auto VI",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX2p0eFNGSGowbUxTRC02LWstVFdqcDNwTjRMMnBISDg1Q0JyajB0d21WX0ZiSDZSMW1xZ3ZLQTJnOUUtbXhBTW93Y3RzRnFBVERXN0gxVEJ1T2pNQUhZSkpfaHhCYWRGZHpwQ1c5cVBOT2sxOGc4WWdWbmFhWWx0b2FtSmRoRDRpVG4tazJVb2ljN1VEcW1vb3hXeHFBaE0yaXdjUGNpOWNqZw?oc=5",
-      "fuente": "Eurogamer.es",
-      "fecha": "2026-11-19T18:47:40.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Después de más de una década de espera, GTA VI llega al mercado mundial",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUVsUDhKbmVBSHE3Y2tqQ0JGZVBqV3NWLWNJOVRYa052YmxUS09EYmNpdXRsRlA1eVhnRk1URS1hZ2V5czVPWFlVdTVQVTBzNEV6OER0ZFl5NEVEaFY1LWs4WU81S00xWTNxUGpXM0NJVGdKWjNvWGlMd1ZWMHBsMnlSUnN5TW5DbzJKS21JVmtiQnVoTFZHcHQ1U3VvTzlVZGhJSmR5NUYydVdLckZqaGFWWQ?oc=5",
-      "fuente": "Sociedad 3.0",
-      "fecha": "2026-11-19T18:47:34.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "¿Qué es la saga de GTA 6 y cuál es la empresa desarrolladora del videojuego?",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMXBnRVowTnE1OE04R0NtMDN1dmpkZ0Z6RkdfMEpaTVd6TVlRZlZZdG44aEp3dmdidjNiX1dvUlI3WXVybUJNQk5CLWxWR0NRc0hldnNxaWVPNXdDaFF1YTFBSE1wNkFlRmFCZWJTbW5vX3hUUFRzR3NWLXdSdm5MZG4wdV9OLS1WYkhYMlMxNG55QWItNE9wbFpxX3Q2MVlrb2tJc2lmU3dTUDBSNWxKZmthWENLY2w3ZWg1UEtGbEdBTHPSAd4BQVVfeXFMTTFiWmY2Y2IwQXdhZVhzOGxQMXB3Y09Vc2NuZFdub3Y1bHRhT1gwbWw1UDBGbHVSMERWd3RaNUNIUlZ6US1mSFIwR3F0SlhyWDBycjZIQmlSdHA5cUdmZnRoQXBGTU1LdnNsdDFBekpiYTZTTzVzV2tzaWpxOUk4Tmw5VVN0UENHZ0V4bW1pX1RvTEhqaHFjSm9icmxWdENmT25BVGdqZFd5NGZNNXFPZzhXNHJid0k4Nm5IbkJpZ3pybVBMTFJUT1g2OHktQTBkQW5TWUlfR1VxVTlfVWFn?oc=5",
-      "fuente": "El Imparcial",
-      "fecha": "2026-11-19T18:47:20.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "The GTA VI Leak Cost Rockstar $5 Million. For Most Studios, That Wouldn't Be the Biggest Loss",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1NuWnh0c1pDZ01kWWJuQk9OVFM0R2F6eVFqUWtMUlFmMW5JQ1VSNlZ1QWltdWRiR252Ym5PaFRYME56NzRQRWNCLThOUVczNVRNcEVBZXM0UXpaekFzem9HQUFQanNGd1UtWjlfYzQ1OW5jZ2FiT2psNDU0emRGWGhyR1JPX3lsS1JfamFyb1lGMlhYSUtJR3l0empiaFZKVFZBQmFRTXFLZzIxdm9mS1k2SHVjZHhnM1dDajFDV0NtOTA?oc=5",
-      "fuente": "Inc.com",
-      "fecha": "2026-11-19T18:46:24.000Z",
-      "imagen": "",
-      "categoria": "Rumores"
-    },
-    {
-      "titulo": "GTA VI supera los 7 millones de espectadores simultáneos en plataformas de streaming",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOenVIWWxHaUtRaGlJcGZ3YjZ3Wk1RLVpINVNIMVpZSGZQUWUwcnlfR29naEJuQm5PcFJrb3RfYnhONU9oaWxSRk02Q2FrQ0dhbU90VExyTkp5WGdyQ080ZW9KRlF4X2JSNjNNbm1YV0hKOGg4ZkRPbHJRYTB2TFJ6ZU9sZS1TTzRsUmJUYUNkcVlYWlYyY084dnRlSjZYR2gxRjFuWi1NUDVlaFU?oc=5",
-      "fuente": "Xpectro FM",
-      "fecha": "2026-11-19T18:46:05.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Ella es Manni L. Pérez: actriz de ascendencia latina que dio vida a Lucía Caminos en GTA VI",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa294ZlJvNnRJR0U2MFhaM0dLVzhHWDcxTXBYNTNBeTljSDh4S2NWX0tRMXhtV09kU0NjOVQ2MWx6cXVQZjdhclVsY1VNMktEZzRVNVA0eWtqLVlOaUZYR0FDVjlleDJUTW85YU5ySTMycExObWZ2a0V4V2h0U1Zicll6R0R0QWJMVmdqMUhIa1RLRi1zTmtxTDk5c0xwMkdBT2I5QzZSNFBHaFozbk50VzlGNjFYdG9zU1NBcno5UlFfRFh5NmVLaGFuU2xsbXlxU1BpS2loc0g?oc=5",
-      "fuente": "El Universal",
-      "fecha": "2026-11-19T18:45:54.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "What the sporting world DIDN'T get before GTA VI",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXNHYjdpR0ZFMTRpLWszSlFaZnFuWXctdkVmcnlEVmNHNTZwZTZLcVRWUW5fejE1bDFNelVTdUJlTGpZS05QcHN5TmdMem9fUktnNjktQndwZjFNdUhkbmxuNHYzOUlBVnl2aHo1aVFSWXhHVDdRSlFfWUtOTEJ0TkZR?oc=5",
-      "fuente": "ESPN",
-      "fecha": "2026-11-19T18:45:34.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Así son los impresionantes iPhone y Samsung inspirados en GTA VI: oro, titanio y mucho lujo",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORHBSLTBpQWpoNFpsbjlZNTYzTXpnd2dCaVctcmxDS3YwMDRka0s1cmN5Z0x3Q1BIeHBYMTJUZUFpcEh1R1U0MmZzWGJpQXM0N2o0Y21yUkU0dk1XMEc3UkV4a0REVmhQZ1p1M2Y1R21NV3Buby05YkJLdHdMUEFQSDA4alROVHRiUmtYS2tHeU1ESmFRcVcyT3Jrd1NoTHNxYWp5NTRmX0FKZFpGLWNkSHhUUmwwY2VWTXItUkxTM3JIcWplZVpZai00a3labWFiMDdjSFNwLVdiOE1qWk8xdUVXS3c5SU9JM1HSAf4BQVVfeXFMTl9MYUhydkNoWDIxTkZNTkpuT1cxUWRQcGhGWFprOTI2OGxmMTFTQUNsMHBBdTZlRVRHNWJEMUNPNEY0N09BZHNqQURFZmsybnZaQTRmZmhlZlFZV1pmcjA4WDRmUU90dFpZYWMwX0VMbDE1ejFRcHNQdWZINGxxVVJ3ZGdrbHRhN0RZMWItZHFoTkZuV25CRU5mLXFLbWktdWRCM2dFbURMZU5TYmR1X3lMVjNSbU1Gb19sWXNDQ2pmR0xydF81cm5HUTZ1T3N1WFVpdmc4WF9sU3FFUGYtX0JGN3lzdEZhNW5zeF9XZE5BMEd0S1lYbEJua1FLbXc?oc=5",
-      "fuente": "Cinco Días",
-      "fecha": "2026-11-19T18:43:16.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "'GTA VI' supera los 1,800 mdd en ingresos el día de su lanzamiento; eclipsa recaudación de 'La Odisea'",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUEhreVBta01WWVlCMS1saG9aRFJQQUtvcW1HQXRpVnJ6NGhLRjd4V1l0OHVNRTBiblVtTV9BaXNFb1ctdklrQVRXNzN6dGMybkVpUjZRRE5GZlJ3anNGZE1tSTlmSl9icWZuSzJ2MEFyZGliSXNGZ0FCSnBqeEowVlBxdVNCQTRVcVpfMXdWUzk1R3JuZFZaZWRLVXVkTm1LWnhlSHlnenNLdm02NVlWZVpMRTlFRkg1ZnFj?oc=5",
-      "fuente": "Forbes México",
-      "fecha": "2026-11-19T18:40:00.000Z",
-      "imagen": "",
-      "categoria": "Lanzamiento"
-    },
-    {
-      "titulo": "GTA 6 Reportedly Hits 20 Million Preorders Before Its Official Launch",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMloyT2dyVTEyeGJEZWp3d3dPZ29FRlR5dmJGWHJDVVF3alhybWd0bU9NdmhkYU9LNXhQc0RNM1l2eDJFYXhic0V0RlpRXzRKRUhhR3REbF9YOGhybU5QX2FVRDFEc0NNRmRzNmhlRHVFWDVCOHF4MV8xOHRpbmszR1hZdXdEN1p4UTRScmxkTUNqMWs?oc=5",
-      "fuente": "Yahoo Finance",
-      "fecha": "2026-11-19T18:37:22.000Z",
-      "imagen": "",
-      "categoria": "Lanzamiento"
-    },
-    {
-      "titulo": "Nikola Jokic Makes Unusual Confession as GTA VI Fever Hits NBA",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ1BWSV9YTm1ReWZYUTNlVXY4WFNmck5Sc0JWc1dZdEtMNUtsZlhBVmsxYXphT0d0aGR5a1RpNnVSdTZjWEFsNkRHYm9uSkx4eE91eTBUSDFDUDJIQURQSEtxeHB6c3ZraUc2dGlZdEZkUzhQZ2h4QUx0cjUyekRtU0ItVUN4N053dlpxMGRBaUtubzF6NV83OWlfSzFDYzZuR2VyTllQOVVGRjkzeG5oZVZVWjhLdmZ6Q19xUE9LQ3pWRlB0V3RDdHp3?oc=5",
-      "fuente": "BasketballNews.com",
-      "fecha": "2026-11-19T18:34:32.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Ya jugamos GTA 6: así fueron las primeras horas del mundo de Jason, Lucía y Mandy",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGFfYVZtMjZlRm5GX29venV1QnV2UjNLYUZLb1VnRzZmSE5RMThvWkVRYnZ2UllvbjNrZi05QURKS3Q1ZHBzRFIycFMzWGQ0QkFZYVdmRjdQcWVqLVd0dm1fZjN6YXVGeUExSDBmY3ZVVnNKNlFVc2R6UW9icE5UWU1OcWNtVkI4a0VOTUx0TzUwLVRleW9mVFIxZ2d1VFl1aWtCXzJlU0F3dF9GOGZiLWJmTWRMSFp4TFlIdDhB0gHYAUFVX3lxTE9Udm5Tbm1QeEhBaEFNNEhEWFpmZmFIb1J4a2xiWk5vc2J2WEp0TjRPVHFDajg5cjBncmtBUkxMemhNeXk2MkN5bjg1N3ZjektsTzh5X1lzdUVTbmVCUmV4N0g0RFVZRHUwLXp4T2NGTmdqV0xfZXRQZEpEQWd5cnN2ZTlWQlhiOExkV3ZBM2pObE9CZXZiZmN4NzVjY2t5X2FyUk9McU5ZZnA5bWJDSmlraU5fWFd3bGpZUjBET2hMZ3IwWWwxSkZwZ195R21KeXljdmg4clVieQ?oc=5",
-      "fuente": "Infobae",
-      "fecha": "2026-11-19T18:33:00.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Olvídate de ver un parche para que GTA 6 funcione a 60 FPS en PS5 Pro. La consola de PlayStation se queda corta para el mundo abierto de Rockstar",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSXh5dDRtWFNocFAyVXZxSnlWaWlNWjdrZ3oyNHZOeTFhdU1CYWRQWDZ2Zl9reUJLQ29mb3pBbUlYTTJIbUlnWUdTYUEyeE9LejlRNjdlSHg4bGgtX3VJTmdHVm5sQjAybGNxSGJKb2xpb0ZHdjZUQ1QtN2hUanI5NkdGeGtfYzFIZmpGem1RLWVoNTV0bzV2eUYzeXdIVHdGM1BDYVNkUWFYeDI5OHBreEtZVk5uaF9YYTROZmU3bWNGalRveVFOY0hqQWtYT1ZkNWFVY1YzMjRSZTJPc2xETy14cV8xa2tUVEJOLU1kR3F4T0g1MnNkLWw3aER4Z0E1UTEwNWdn?oc=5",
-      "fuente": "3DJuegos",
-      "fecha": "2026-11-19T18:30:27.000Z",
-      "imagen": "",
-      "categoria": "Actualización"
-    },
-    {
-      "titulo": "GTA VI: estafas ofrecen 4,000 dólares para robar datos",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaFJCNVJyQm9nUHhORDVTWXVGdW1UVC04clNUZWdrVmJkbEdBMjlocFNiSTBMdjNIWmRsYi1TOUxDQnZCWTk2WGJtTXlqeEoteE56VnFJVURHQmRsVVBIYTNpWVFqMGp6aHFCMzhvMXRpTjNGb0k4dmY2T3hsa0FuX0JxYkNWcWxpdTdvdXhWSnBkX1ot0gGiAUFVX3lxTE56ZFpUSXhZbnpQemVBbGpXcnVtQ21KZVFHTTk0WVVXY3hfWmVjVjljb2NIdzg2dlgzakVkXy1NWmFkYm8xUjhHSC1RS1B2MnpWMEdmb1BYVHQ2TS1RYlRLSUNablpYd1BtdFFfaE9OYVVuekdqbDJ6NXFfcXFrQWVWMDhYSjdfTDdEemVYUEZwNzJRVjhMQ1haMmlWUVF0RUpCZw?oc=5",
-      "fuente": "Expansión",
-      "fecha": "2026-11-19T18:30:00.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "‘GTA VI’, Online ‘Cheating’ and the Denouncement of the Game as Interactive Porn",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWTNGWVNwc2N2M29WU3Z5QWxSdXg4TGNKbXJNR0xCWUczcHNfRU1mRDlXd2NSOC1PTWNlMTBFUGpYQjRibFZxNmlDMkVKeGg1ME9zQ25UU2ZFaU1TMWR3dnFDdWxRRFhJekc5a1RRUklHM3BhM1Z2U0NKdk1KTzBfcDNvNXJQQjA?oc=5",
-      "fuente": "Substack",
-      "fecha": "2026-11-19T18:28:40.000Z",
-      "imagen": "",
-      "categoria": "Trucos"
-    },
-    {
-      "titulo": "GTA 6 altera la rutina de una fábrica rusa: empleados reciben el día libre para jugarlo",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRnhaclFtRFZnWEc4MnlteTdUVHV0djQ4bXFoNksyenZmMllPS3p6WXVFbExvRVdyRURVUEpCN3hzcExBekdic1NnMUIzRWhLaDE3Nlg5Q2NRV0lfU2sydUNUV2ZWbFNnSjhCY3Z0NEhVSUVodnJieVVRSjE1WG5oZ1BhdkNhdUpaQmFjQzBEZjVwWVk3aHhsV2NxNGVlRm4zRlh6OHJDblFLNWptUVdrX1prY0pRcVI4bDZnbFMxZGhFa1lmX0dpYXdIclVMQdIB4gFBVV95cUxPNndoZjlwN05keDB3Z3VOaVdvZC04UTVUMFFQMVVhZGdJZ01YOHRRWTlLLWdrNG93X3Z0Q0tXZXhER3NiS1pyTW1IRVU0VkhoNmZFM0YxQW5GT0JqZFVYT3JiekhZYUd1MVpLQTd4cVI0WThJTjZ2U0l1WWxaa0k5VUJDaFN6UzN0Mk51UHpZTXljRUJsU3FOTmlMMHZ1eV91STFuWmZXbWFyVlJDMDUzNmtVNmJGNlQ3S2xzTjY2UVl6RER6SmJCOFpIZUotbWUxamc4WVQtRktfZkFEVy1hZWpn?oc=5",
-      "fuente": "Bloomberg Línea",
-      "fecha": "2026-11-19T18:22:15.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Cómo escuchar música fuera del coche en GTA 6: así puedes llevar tus canciones favoritas mientras caminas",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSHE4bllod1RiLURuUHNCeU9MdTA5Q3Z6bHEwaUFFcGJBV2lPdHBpQWRRQzhtWTNMWW5qbmVGWi1wbE83dUNpaW4zWUNrRC1TNXphYUdsRlRnOEc3N1VXR1drX29NbnpkM2NZa25NVGxNSjNORldUR09qVGpESnhkQlhsUjhrRno2Z1VmWDBaMkNTOFdwaDFiS0dDWGRoRG9lYzEwSWc3OVVMY0FTOWJlSE5fYWFfT1Z2ZkRoc0Q3VjlRd0w1TDJQMkh0Y1RxaFRPWUdiM0FhTlQ4ZEVfSVhqU2VDV2RnaW1sbFHSAf4BQVVfeXFMTThidmdBc2FNeXh6Z3RyOTZjdWJwMWVRdXZBRHNkcDFNQk51eUZEOGliZnljOENkakFpaURoelNPcVVCRGp1N2JVeVMwa1c4aW4yeThxYXFfU203UUtiNGg3MDc5TFl4bXF3ZW9XNnNyZWlNR2phSmpwQTFFalhlNHllRTZnRnBZUEs2SHF1X19FTWtSS2VfZHRCcEx4aXpLakltV3BWTFlWS193aUhoeWN5bi0zblltYUdXNUZzN0VoUERvZm4tUWlfTTBOaXlOMTQxZ19va1ZRQjlPdGhFR0hSa1JHcUkxMEY1d3RTcElpWGpYM2drTlhRcTEtTWc?oc=5",
-      "fuente": "Diario AS",
-      "fecha": "2026-11-19T18:21:38.000Z",
-      "imagen": "",
-      "categoria": "Guías"
-    },
-    {
-      "titulo": "A pesar de los riesgos de baneo, miles de jugadores de XBOX en México utilizaron el “truco de Nueva Zelanda” para jugar GTA 6 antes del estreno",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSDJZdGs2X0JSb0ZVQVU2LUx5N2FnMGVxRU1rUzEtaEFsczRSSXNyV3lyem50OTNqLWhSTlV2T0pIbjlZQmNKdGMzVjZ5ZEpVUXUwOTFzb0diUHN6Q1lfR0lOT0l2WHNETlFEdVRLWUtLSXB0NHRuVTljRUk3cEt4ZmR5VHlkc0FOVDN2ajA2SjBNYVo4RnZvMktPSXRtc2lXdC1wQ2RlWVV4WmZMTjhhZENWQ2dUSXZ6YjJSeHNZWm9ZYWxsZUJTdTN6UmlmVFd2TVh2VjlYRlRmZ0JQWkZUUFhuT0l0RW9pNFdSUjhvQ1RKMTA0VmI2THZMNDVVQXlZZVZNRQ?oc=5",
-      "fuente": "LEVELUP",
-      "fecha": "2026-11-19T18:17:58.000Z",
-      "imagen": "",
-      "categoria": "Trucos"
-    },
-    {
-      "titulo": "Heat’s Erik Spoelstra asking players to invite him over for GTA 6 marathon is hilarious",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzlLdVlzVDNHNERlNEpvbHFrZnQtdlpuUGFZbmxsUHhZcFd0Z2p1MjBhdktxQU5CYXJtQS0xTVdnREJlbVF2MjdKWEpiWUREUG0tRGc4bjJFR2tLcFJuY0RMMHBNWmN6Mnl5OU16V21wQjVEeWVBTjk4SlAzLS1Gb2REU3RoU0xTS0JR?oc=5",
-      "fuente": "Yahoo Sports",
-      "fecha": "2026-11-19T18:09:41.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Overhated & Underrated: An Underrated Crime Thriller is the Perfect Double Feature With GTA VI",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZcEJrN2JEUng5Zjc4ZGVhZ1c4bk5iMVZjV2NabzdYenR2d2xGYWRVUUNvT0Jqd2tXZ1N1U0ZXaTg2Ri12YjJPSmxDVUQxWUJST3hVUWtfZnJPZFNvSGRmTFZOYWNwNV9y?oc=5",
-      "fuente": "Comic Book Resources",
-      "fecha": "2026-11-19T18:09:21.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Sandra Cuevas promete regalar GTA VI en TikTok y busca a uno de sus pretendientes para conseguirlo",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaVFwMWpSemJBaTFuZE1NVWsxY2xSSmRCekgycXh6a1VhTl9BTktZZ3lENkRCS2VQb0F2TDgydmhpOVhiQ0pPblRPRHhwaS02ZDhqNGhNZUdRXy0zeWZfcUVuOWUyX0Zoc0tTUXZQQ0hsbGZvYzF1SkowU1Z2ZXpfQWVsWmhDWWlVcll3ZTVwV29sNG94VnlmSG5rMWZCVEtrTS1BZk1wZjdIODE1ckN3SDNmVE9EM0JncjNMZG9oXzZOYndfNFlrc0tGVnZRTXhtZ0hwZ3dySWI5VW5LeTBZMzdYWEdWYVJW?oc=5",
-      "fuente": "Récord",
-      "fecha": "2026-11-19T18:08:00.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "¿Quién es Mandy en GTA VI?: Por qué los jugadores están obsesionados con este personaje no jugable",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRE00akE4bkhqTUt6SHVUNHBNem55ZW9FNFBtQ0xKRjJwRkV2bmVrSUpidnEwRzNqekQwRFpaTkxlclg4OFNxX0Jka0lwQk11NFZKbUhCYmVCaklhZmxQbE83S3Vfdy1HZXRMcjlSaEZubnBza3g1N04wYlVoX1NDOFZ5SXg0QmQ4UE1B?oc=5",
-      "fuente": "Yahoo",
-      "fecha": "2026-11-19T18:07:57.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "How To Game Share GTA 6 And Split The Cost With A Friend",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHYUR1c1luYjJKSnI1UjFBZ0lPQTVhQlZkckdBc2R1M2wzYktpVnBtNXVDbnJsU0U1MXUxcGJMamNFdU9mRXl3YllkSjNUd0Z3TUExUko3ekhYZVJwNmRtQUpxdzl6QTNSdXNHbG1NOU1TVnpteWhn?oc=5",
-      "fuente": "Engadget",
-      "fecha": "2026-11-19T18:00:48.000Z",
-      "imagen": "",
-      "categoria": "Guías"
-    },
-    {
-      "titulo": "Phishing aumenta 1,300%; aprovechan lanzamiento de GTA VI",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNHo5ZTNJRkpGWFZFZUpEUC0tUDFuejlMbURiWVh2akRnU3VoaG5NNm9fS2lxYjJJU1lpZGE1b09PRjJ2R0pKX1FuclprZnNkV1loSVh4TjZMWmM5VkRmbFdxMGw1LUthekV6a3NWUHhFV0ZfOTgtUkdpVjZXc0V4YUV4bEVpemRMckhjYzgycjE0ZEU5YlJZ?oc=5",
-      "fuente": "Reforma",
-      "fecha": "2026-11-19T17:59:05.000Z",
-      "imagen": "",
-      "categoria": "Lanzamiento"
-    },
-    {
-      "titulo": "GTA 6 hype builds as Las Vegas gamers reflect on franchise's cultural impact",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnlSVXBsc04wS2oyQldFOExwZ3VQak5TdDVHSmtTZmhtOUVuSFBhVGl2dHFWZTdYUmJ1OFc5d2Q4dHlNUDVzWEJqNE02cXZDTGJYd044ajRiVy13WmNHbTVDeGJfdnpPV1RFbjhQbDcyWmVqNWhhYkhfbzM3UDUxQU5Va19jUGxSbWVKcUhpamVSWXN6ZkRSUlVpU0pjOVVSdEdMR2U2LWI?oc=5",
-      "fuente": "KSNV",
-      "fecha": "2026-11-19T17:57:51.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "El Big Foot de GTA 6: ubicaciones del Mono Mofeta, efigies y cómo activar sus misiones",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUzkxdFJSMVhrUmcxdFB0NVlPaWZ1bUZBMzBkeFk4M1puTjMySF9rZG9aRklSQ0NOQUk4SVJYeDlWTjBwRDZUUEtpNnYyTzkwYUEtazlSR2x2djItZkstcnlnNldFX1BLdlozMXJFNU8xNTBHQXUyQXVxYTZIYWRULXQxOXFfN1FCWFQtd0d5NTg3WnBENVA4VGdhNTBaN0ZyckxEanZWQ2o4LXNiY3JyRWV4eWNYdjFxUl9PUy1SQm1heGwxcDZoMUd1RHVGSDDSAeMBQVVfeXFMT2pMb2FucWVWMWZLLTRBRm9HLUItczlIb2NJNGM1MVJ5S0xzR3BOa0ZsWHpuVGJPQ0l4QTVZcE1uNWJRZjJIVnBTSmhnVkJLRGFvdjFtZ2Exdl94dExLNzB1aWNuWUlyZjBIZmlZN0gweEZuVmNPUEtBelVJVXJDWFU0SzJhaS04VktYdUo0UllLWE12WTRzYkNRQ05hUnJLUnR0b0xQamZYVjdGRWpod1JPXzlZMWNhMTRKS0JTRTUyLU9rdkdyS0hhWnhuUmNFejlobjgzYmdfdFZhRVNGLW9EZ0E?oc=5",
-      "fuente": "Diario AS",
-      "fecha": "2026-11-19T17:54:02.000Z",
-      "imagen": "",
-      "categoria": "Guías"
-    },
-    {
-      "titulo": "People Are Making a Strange Accusation About GTA 6. I Have an Official Ruling.",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2FkLVNpSUN1Z3dMTnlwUTJWRGFMdUZqTmZfNlFSNWx1X0Vra3YwWnl6bWlnazNqcDVhTGdDTTVoR0MwOVdJal9FdnhYU2tSQk5kVGMwOF90SDNYZV9Ka2NnOW9JNFlJYVRMZWhrazN2Q204VnFKZjVrcUJrLWJLRUMyb1ZtSG1BSEJLYg?oc=5",
-      "fuente": "Slate",
-      "fecha": "2026-11-19T17:54:00.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "How to steal a fighter jet and battle tank in GTA 6",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNblVYNlpjdlhVT1BsMC1iV01kdjFoTmt0NFdJNzBtajdvWnVBNmdjZmRUVFV3UGUwcVhTdkZfTHRTZEFUQzhSal9wZ1RMNUNIMFhhMzFZbjFEYnBDeFJITVNjZzRtaHpDMHN0Qk1nVXpubnhnM2tPNEUzUzFpbmE4QXBWRXc5MUlqamE0Y29iZUtzQmJHdFBBV215SkZiTDhuU3ZHT0xSUkk2MzZsdG84N0RKcWZiYU5RNm5pbnhB?oc=5",
-      "fuente": "Military Times",
-      "fecha": "2026-11-19T17:53:38.000Z",
-      "imagen": "",
-      "categoria": "Guías"
-    },
-    {
-      "titulo": "GTA VI is out after 13 years: What were Arizona sports team doing when GTA V released?",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN0pZS1dWdjdJT2xSTE50SThad1hYcThaejRMcktlcW9XWDM4OW5Way1vVXA5cjJGMXhCVlpqMXRMcmo4WXdaaHdfb2RGbHlRUkxXWkRfajh0enBOS0pUclpBN3JobXpmV1dKRkZfdzBEUHl5LXg3WjNjRV9YMWJzY3JOMnp5a084ckc0ZFl6Mjh5NEVVS1ZfMXlNYlVpXzQta241alhfZGZuUlhGZHk1OWp6TDRpcnRMZXpHZGlKTTB6by1ndWVPUGtNazk?oc=5",
-      "fuente": "Arizona Sports",
-      "fecha": "2026-11-19T17:47:59.000Z",
-      "imagen": "",
-      "categoria": "Lanzamiento"
-    },
-    {
-      "titulo": "GTA 6 por fin está disponible en PS5 y Xbox Series X|S en todo el mundo",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdXpVR0tCcmU1bWh2UlBQRFYzMVh0Qjh3MlpvbmVYbkZabG1uakcyamhBWGtTRTgtUVBRUWdFU05aSW1hWkxrbmNyWk1FUElncnc4RWNCM1hGVFRRQ2NUM0kxSkhlaTlFX1VpUFhHTTRNUnpCVWJlLVlncFh2SC1QNnhlbUxYRGo5?oc=5",
-      "fuente": "TierraGamer",
-      "fecha": "2026-11-19T17:45:00.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "It’s only fitting that GTA 6 is coming out on the anniversary of infamous Malice at the Palace between Pistons, Pacers",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhOWwxWEMyVC1wbG9zcUlSZjNYM29HYThLMjNmdVJNLW9qaE1GY2llQ1Fobm1CVDk5Q0hRanFoQktfY2hUWVhjMnVkWko0cXhqeUJ5dmZ0Y2R4d3BDbXFqeGhicUxBTzFnejF5YnFSTVhfcjc2bFZ4N3ZNaktfVlk?oc=5",
-      "fuente": "Yahoo Sports",
-      "fecha": "2026-11-19T17:44:44.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "La policía de estos países aprovechó el debut de GTA 6 para enviar un mensaje a los criminales del mundo real: “no están en un videojuego”",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWkptcnh5SE9VR2dQYmttbGlEU2p6OWNmeWkwb24yNHQwR0VLZmxIMWNSLVM4ZS1sQWZYekJBbDd4QXNuZmZLNzM3VWFvV0VhMUdGNVR5bmtndzBZUTR0cHNTemNmU1pUd2JiaUEya1hQaEp1WWxkbXk5V09FM3hsZVV3NUxxZ3haeXdITTQwQmplVTVRY2FXLUEzX3hVU3RXQmpkOVhscEhNcUZLdjJaWUQ4VXJZNGN3YndrRndEV2NaSjE3OGNYOXp5VUpHWnlQcm9jdFpqR3Z3NzAxZXVZdFpuQ3dfTWtEOHZfcE1BVnlpd0xpVDRoRnBoYVl2UQ?oc=5",
-      "fuente": "LEVELUP",
-      "fecha": "2026-11-19T17:42:21.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "FOR THESE GUYS, GTA VI IS SERIOUS BUSINESS",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WVGVwcmZSeVhlR3FUdDVwUFdIT2dGZ2tjN21HMEx6bEc1X1Nkb0pBcUhzcEp2LUk1cmFhbk9HcVlXSC1BdjFacXl2emM2bUc4S25YaDR0eW8taE1wdWVTRDV1Zw?oc=5",
-      "fuente": "Wonderland Magazine",
-      "fecha": "2026-11-19T17:41:16.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "'GTA 6' is out now and officially ready to play: Everything you need to know about the Rockstar game launch including reviews, pricing, story mode and more",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQaUNnMmRZcFRoTW41ZV9nZGJfT18wOE9FS25QVm1uUTJRdXRxTEZGdC1oRGNDdlhRMHJQWFJOLUlST3JwRU9zMXZqWV9DOHViQ3hmSjdJTjl6NlJuNjFES0duYlN5TUdBbmdod2k1akVNZnE0VXhfalN6bVUzQ3E0RGxTTnFsX1RJV3p3UTdTempLWGRpWEdDbVJzSjZlOVFJQUdMbXE1V3ZHVGh1WVVEVXVHcWZsblQ4X2E1SlE0cVFOREtoV0dieERZVUdDVmVxc1M4aHhkYnB5WEVZR2pQQVRvRHp1LWRzdXNGRG8tSW9MSGlxZ1UyZ0w3SEhaa0hzWVNYS2NGSnpDc0FFUy1vOW5JdmdLRFI1NGo2Z28xamE5VFBZSk5MbWY2Q25OYW9XSGxiVVhBdEE0V2tyaGc?oc=5",
-      "fuente": "Yahoo Tech",
-      "fecha": "2026-11-19T17:41:11.000Z",
-      "imagen": "",
-      "categoria": "Lanzamiento"
-    },
-    {
-      "titulo": "GTA 6 is only going to get better from here",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaW1FZXdSSGdvRXh5NUw5NEtlMndQbGFLNkJyRUg2SUhjdlludDM2TkxFM1Z3RkNtRXAyQUJWVGJBLUJRSjFtU3B5SnFmMGtWTHI0cDlkbUR1Z2RIRDZ5bUNXaGEzdzZEbUVaeWxIMnc4djB4U0JodmJ5ZFRCcExuNGZqSWxWTWNfdVNRc0NYSkJwY2EtdXhzdnFJZHNIUElfdklFbXk0STNjdjNQWjlkcERoamw?oc=5",
-      "fuente": "PC Gamer",
-      "fecha": "2026-11-19T17:40:19.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "'Grand Theft Auto VI' sale al mercado causando un gran impacto cultural, económico y generacional",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rUkc4WFVSM1QxLVRsem5kX19zdUtWVUpzZUV6Z0tvSkUyRFdQVTQ1dlptMkk3UERLQzAzOE5HbUpxMGt0Q1lmLTFYSk9nSWVqVE82b3RIMHlKb0EzcHhvM21BTUxBUU9rc2owODVzRzRpMEw2elVwazJvUXk?oc=5",
-      "fuente": "Yahoo",
-      "fecha": "2026-11-19T17:36:57.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Everything We Know About Manni L. Perez, ‘GTA 6’ Female Lead Lucia Caminos",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWWgwYkRrclRhLU92SlpsdDlTU2pSQTRKTnJJRHNpZTVwYkFPSGJ3cms3YjJjOVQxaVpHb0NmbGdFZ2E0Tl9qUGNCWmJBT1lZN0lvckQzck1kXzQwejlDcUdEanZVYjNmWGpGUVVWX0ducXVQdm5xZjlNR2VMcl9GLXNWbTVGN1Y5Skw1ek56WkZoNDlwRExRa2MwcWpfei1aZjBz?oc=5",
-      "fuente": "TODAY.com",
-      "fecha": "2026-11-19T17:35:53.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Esta es la tienda en México donde puedes comprar el control DualSense edición limitada de GTA 6 para PS5 durante su estreno",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEh4RU0wX0Q1OXlRRG9nbHMxZk1NMnlVMjRqODNoVmtmQndxZ29oVG1ZSXlfZmlWOEIwT29VQzFoSzI5TmYxeUlTT08xWExPcWlFNEpvT1FOLXZWVm1SS2w0RGo3c2lVVXdMZE9ISlJNX0RGWVdTdGJibGRQQWdPVTB4Z1R6eGVxSjNSM2YyN1JIUkhuWUE5Y2ZSaU13OEFqcy1CdENMREVlUWxfMF9kTnZfSGg2MW9ZM0VUa3VxQkRWVDM0YV9ZSUtzbmlBU29ORHN2V3ZneW5QUk810gHiAUFVX3lxTE56bzVrb2x0TXdZaGlIU2xIMk9ySW1hVW5rUUkwVXlEdno2emRDSFBwRDNPQ3BYNkNWWU5BTWNtbVNIb0RyVklxREJ3cWlwN1phaTFBc2E2Mk9EcE9obzJ2QWpaLW9OYnBBMEhSRjhLTF8yZlBFdi1mX3duYjlpSWEzUnotcm92TV9VN3BWX3AxZG9GUjE0eUJJVHRpaVo4OGoxU2RKMC1qWHJjQ3dJd0phV3lyM2g0eGROMUhGRkk4UGRiMjV2cGZ5Tm1wVmNEaXBaVG42bW43Xy1oQk9LczF0cEE?oc=5",
-      "fuente": "Xataka México",
-      "fecha": "2026-11-19T17:35:14.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "NYC schools beg students not to play hooky ahead of GTA 6’s highly anticipated release",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ0ZPc0NFM0NfQUhkNjVKd25vbWxyT2Zwb3AtNUZzZ1B6djF0bUpzWXRsNDJFejJPV183R1JobXB6LU1GVktwc2JvSFNGX3RwOHY4WE5RYVdod0Izd2U2Um1kUzFoT3F6STJmWm1PVmZtQVA5bFdhREhOTEZLRzAyLVlQdjZLN05TcmdjdFJQZmFPRHBXakNzdzNMOEtJODFrdlBUbkItWXBZTExuQmd6M1JMbTU0RHZzX0NCVjhoSHZzS3JMTUZTbFFWMGhZQlBMS0R0d1JYd2M?oc=5",
-      "fuente": "New York Post",
-      "fecha": "2026-11-19T17:30:00.000Z",
-      "imagen": "",
-      "categoria": "Lanzamiento"
-    },
-    {
-      "titulo": "Fuerza Regida llevará el regional mexicano a GTA VI con su canción “Suzuki”",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGhWaWFLWWlZdTZRaXcwYldaTkhLMmNFR0d5dDlDRGY2QmtyOTV3dElqdzVJQ3Q0eXhnMk1WeGdGQXJ6NXhyQ3BKVjE0YzNfN25sT2RsNzhwMDJVUjdjV2p1U3p5anBSQUVlcjRaeDVYcDBtbEcwUkUtbElMUU1oRXRCeTRJazFLWHlzckw4Qmg1bHlXalRyX1BEa1UzMG9vWUxKOWxlMElsTjVzUWRFOHZ0UVF6WmtLWHUzcG5GdUJheEFSRTJ2QtIBzgFBVV95cUxNWFBrcEhvQ21fSWVUNlRCeWlMcmQtMmRkT3VfcFlBWTBKQjJ4UTJOdGwzd0g5bER3UllaZVVyQjZMUXVPSWdib1R1ejJjOHZZREpUQTJNVjFMNXpVY1J6dVcxSXBBRlhOdExpQWVFd2xZSGpzSkx6VHZLSE9IN3ZHU0Z4aFpEX3FpZTBOcU54UFhqNDRxY3BROXRSOTg4OHZVNDJObWlhVmU4WWhfbjRIX2trY01vMFBVUU0tUVlmZmRiMmdxU3NwWnU0VE1Sdw?oc=5",
-      "fuente": "El Diario",
-      "fecha": "2026-11-19T17:26:00.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Los jugadores de XBOX Series se quejan por GTA 6: Microsoft les ha cambiado el fondo por otro del juego de Rockstar",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmV2TXpseGhwUkpGajJMankzRm1uWmNCMnNtYk5YMGlXbDM2bUYxR1ZLQm1KSDVkTWVVWDhRcjhTTXJPV1JEdW0yU0x4UUtXMHFNT2M2UmpYWER2eEJxVVlQVW1aSVh5Q2VuZ0hRSWpTcEdhaGY4N1lSUDQxMjNCRVg5M1l3eUVKdnUzUEQ5Q0pBRkx2NnBERUE4UGNXT3k2UEU1TlhYa1ZZSm1TaWdFbUU3aWd3bWUxTEFYQXpoeHN4X2fSAcgBQVVfeXFMTTV4amtJRWxaa0JkYU9qRS1YSXBMWWdXMUI2OE1LWjREWDY4aVl3bmdfTVcyUjlCVFlmdkVKU0h3SFV1ZVIzZk56RHFRTXdjZHpwMlBoaVhGVTFuMjJzYjhXM1ZaOUdMMENHdXlyRlVmTzAwbXJxS3ljSDFCYXgydkVyQ0FEWThxVm1NSXlneWxVTzNHNjh2U3NDNkljTmZaSjMxU3QzdHotbjJPbUI2d29Xd0FUMVJRZ2pqSlFkU1pGeVlqRFQtRG4?oc=5",
-      "fuente": "Vandal",
-      "fecha": "2026-11-19T17:25:00.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "La disparatada sátira de Rockstar a la comunidad furry en Grand Theft Auto VI",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVzRpQTBrR0J5Y3FBSFlKT1picmZqa1dfOVFnRWpDZGZSTXZhYWtwV0IxcGJpaGFKSFcxay1CVWZ5WUlubDQzMlcxb0xaMjdGWk9GS0Rybl83cDVuNnJwNmdrV2pLNU00VWJrd3gtaVRzMWo1cWdOaUVxZzF0QVZlMWJVeDJNNUV1?oc=5",
-      "fuente": "IGN Latinoamérica",
-      "fecha": "2026-11-19T17:24:54.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Las anécdotas del estreno de ‘GTA VI’: de recibir la máxima nota a desinstalar el juego por error",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVjRRM0pudFB4SUdQOFBFZC15TmxLN3FwU3lORUV3YVRodmhDZVVTTzNEYWRwbWRWTVNIdHYySTBsbkdhNnFTSU1WVkdpcUlYdmpnU1VnQTU0YlZTa0Y4U0JkR2J6b2N2cDZJMmdhMWpZTXlUNDBsWWhfY0U3Q3dqOUVQN1N0SGlKTTd4anVBZU9aUERhVkc2TlpqUmZuUTZLM0MwaWY3NUkyOXA3SzJwaGh4eHRNbkQzOHpmOUJoRWxBQ3oyMTZN0gHMAUFVX3lxTE1xbGVDWExENzNsRVZrZzFvUkV6VEdBRkJiX0tfQXdLWHRVT2hPdk1WVzJBZWRhMnJWa3p6UVd5a3JpS3VqVUZTdlBoTi0zcTZWbUNoTWNqYzFSb1pSOWR4eTQ0UE9NLUg1R3h5NDh3ZEUxeC1FQWs0WTVyVDl6SGpmX3oyTVZSWEx1bklXX2RtZUFTZjdoUXRoRUpTM21HVHI2dS13NUNnSGNCUG1iUmdNQlBncExwWWRod19ITExONGhNR1FxVkp4Yy1uaA?oc=5",
-      "fuente": "La Vanguardia",
-      "fecha": "2026-11-19T17:24:36.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "You Won't Find This Fan Favorite Feature In GTA 6",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUXQ3U2lUMkhVNmJ3R1ZMS2hpMDVKdklORk9VZXA2eldKWTctbmV2OFptQjQ4a0dTUnlHeS1XaDZuWmVsYl94WmI4Nkw0M0JYWVExTS1ocjl1MV9hYmlHVEFadjBLYmVLVTBjZHhwcEd6YzZScUFoQnBiVWM5QlBPNnQydW1XeVhPTlE?oc=5",
-      "fuente": "Engadget",
-      "fecha": "2026-11-19T17:23:58.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "¿Bad Bunny vio a La Llorona en México? La anécdota surrealista del cantante como locutor en GTA VI",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUl1RFBnR3U5cTJrQUswOTNsVVhvVHB2bWpXV1NuRW41a3pzOHE4UFZFaWl2MmZDRnI0akNGX3QtOWROSlJtdFdKbXJBLThjWmFoLUxqTWJvZGQ1TXh6Q2dCa05HU2g3a1BJUV9oSk1CRm43ODkwQ2FGSUozM1VJb1M5V0c?oc=5",
-      "fuente": "Grupo Animal",
-      "fecha": "2026-11-19T17:22:26.000Z",
-      "imagen": "",
-      "categoria": "Guías"
-    },
-    {
-      "titulo": "How To Switch Camera Views In GTA 6",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKSVNGWFpvTVhZbElQdDJlWHY3QXBZeGhoYm1kc0RvWmtlV3Bfd3hYakhqcUxleDhxZmJDdnB0X0ZmNFNBQzlYN2lYLUFkd1NQZUNacXlCanRRODRqMmFRemNPZVVkdHZvc1N2emRfWndiWWhk?oc=5",
-      "fuente": "Engadget",
-      "fecha": "2026-11-19T17:18:44.000Z",
-      "imagen": "",
-      "categoria": "Guías"
-    },
-    {
-      "titulo": "GTA 6 debut prompts mass job callouts after 13-year wait",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFFnSWF3eU1YNHhoLXZvVGdwT2NVWVFva1B5ZVkwMFI5azF3YzFoR1d4VEFmLWNlcUdXTUs0bnkzNEhIZGhwWFhZT1F3RzNHY25IaU5CNGtTalhkbzFjNVh3MkFPTnkxTU82MFBkTm1nOHBUa3l1ZTNHUlhtb1R3UG5keDNzaURSWGfSAY8BQVVfeXFMTnJmZFFxTll3XzNNVFlNbTlFcTZzWlpSTndvSkRtaUNmX0RKS19fWFJWeEMzRC1waXpjRG1tVWRqS1lGVXMyQzg5LVQ4aEM4X19Ia3VmaGZjRFRGNDV5NlZrM2xDWjFjak05MTBXdWNuRUZHZlEtcDN3TFB1cXVYV0ZWV3hTNTNWSnZLX18tNmc?oc=5",
-      "fuente": "NewsNation",
-      "fecha": "2026-11-19T17:15:38.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Bam Adebayo gives perfect response when asked about GTA 6 release after Miami Heat game",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNDdpUURrbWllWjFKX1RrdVFua1ZUa09SbFhRa1FPUmE5bG02NWgzLTJSM3BzSWxnN0o2U0Yzd2pocDE4NEhlMHYwSWRTSTNQdktIU3pmT3RKcGV0MFdkYTNwYVlTdThYdnFWYjJuNEtBbHRoYTJTZGdicGVBczRzemtOTHlFRzZEY1Nz?oc=5",
-      "fuente": "Yahoo Sports",
-      "fecha": "2026-11-19T17:15:00.000Z",
-      "imagen": "",
-      "categoria": "Lanzamiento"
-    },
-    {
-      "titulo": "Rockstar mostró la primera imagen de GTA 6 en 2021, y se confirma una de las teorías más alocadas de los fans: el easter egg esconde un oscuro secreto",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHZvT3NFd1pRSHlrcF9EUWNKSTlRVXNlQmFoOVNSYm96TUdTYXE5TlZ3ZkowV05wa01zQVhPcXhzU1pYZ2xoQktaVmRDQUFFXzljcnBZNnN5ZDhZREd5enRoZ3Rqa0lKajRUaWNwdjNqYjFPU0xhZmpZYTMyZkF2RGk1cFVIVmkw?oc=5",
-      "fuente": "Yahoo",
-      "fecha": "2026-11-19T17:12:47.000Z",
-      "imagen": "",
-      "categoria": "Trucos"
-    },
-    {
-      "titulo": "GTA VI: por qué las emisoras de radio construyen una ciudad",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OTE9PdVY5S2cwOXYtbEE2ZGU5OEw1Q1A5QUpZT013bTRReGluLTRuSFF5YXRBM01wZWpnam4xWUpsNzV3bDJWeW8yVVJWNk1tTDhvVEVmN004NGFqT1pPc29KZFpydHhDRF9JbGVDSjk4bTRC?oc=5",
-      "fuente": "CineMedios",
-      "fecha": "2026-11-19T17:11:00.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Now That I've Played GTA 6 on PS5 Pro, Here's What I Want Out of the PC Version",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSTlNWm5FbjNYTm5TM09oNUVZcnJMRnllMXlrcVdNRWxweVFjMUhiaVNDOWhqNEdGNXZlWEJkUjVhUXRmQmNmYk9abUM0dTBCNV9OZk1ZbTlTekxHUHEwZlptTXVzNEhpbEFrRGI1RHRMVzJ5M0lrbnFqRkVoNHBLZU8tN2ZWLWxPakt3cENHRnc5cXZPLTMyR3dwMTV0bDNfbllRQUxVNUt3aU1CRU12LUxMRkhmM3NtdnJQUVpuMllCUmJ3?oc=5",
-      "fuente": "IGN Nordic",
-      "fecha": "2026-11-19T17:05:11.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "GTA 6 cheat codes are available, but players must finish the main story and complete challenges to unlock them. See link below ⬇️ 📸 Asanka Ratnayake, Getty Images",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVFhpQWRaX2NVV0kybjlJYllwdk9VWHJZVmhiVXVkNmwtR3BwWjlFb2g1dkw1YVljVndXeG9CZVZ4QnNzTEg2cmlhQUtCZDNnSUJGdDFVQmFiMjUyZVdST2pMaXRINF9FbllFdkVKZk1zSUdRYzVDanZxR0oxVnlKSEZzazdJN0dqTFNmZHUyb1NSNjBxRERLUHQtVDg1OFZHTXJ5X2ZOUmFqZmZMdm1kbVNTWHI3UDFoMkFNUVNpeEJJcGZMMDVZMGxiay1EdkdZV3huUFAyS0ZoaUU4R1Rj?oc=5",
-      "fuente": "Facebook",
-      "fecha": "2026-11-19T17:00:27.000Z",
-      "imagen": "",
-      "categoria": "Trucos"
-    },
-    {
-      "titulo": "Here’s Why You Can Get A Haircut At 3 AM In GTA 6",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTRGc09URFJmVnIwWG1qT2tFS0dXMjBKV0RzT2thc0g2NVJpb0pZN2FWYnpwa1p5amNaT2xzYjNnVG5rZUFEM21IMEdJd3pyMlRGU2ZTVGFTZEVWbXRMdG9OWUhxempFWEstUDNUeV9GbnhISGF2US1QOHhUdF9rWnNEMlQ?oc=5",
-      "fuente": "Kotaku",
-      "fecha": "2026-11-19T17:00:10.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "GTA 6 tendrá múltiples finales y decisiones que cambiarán la historia",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaXNxYmdHdGM1M3FPd3dWeFkwX0Q2Z1NKTFpNODVGUzFnMUpNLWczSlJwQWhucTVvT1hXQU5ZQURsY3ZLNldNR0xDM2M2a04ybDg0cTVxdDN4QVl2WFAwUThhOW1xTzNoeElaTWtTQXo0RUhZRENiWEdnallPX3ZnM3M2RVIwMllXenVYWmFPRHB1eGE1?oc=5",
-      "fuente": "TierraGamer",
-      "fecha": "2026-11-19T17:00:00.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "I played GTA 6 on a launch day PS5 and one crash almost bricked my console",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUljTmtiWWF2VHdSM1Y1OVdvZmwwUEg4dk9GTVZVQU8yNTJqNkxIMzNHX3RHRGNraHJidVRtZ29MNHB5U2VySzZ0TENSRXFOR0ZoVm16ekticEVNa25nVU4wcTZzeHFOMmdyYnFfeUtOMDBFVGQyTmhBdExlN0NwQ3I0MGVEcHcxLWlpSW53SWhnazhfWExUVg?oc=5",
-      "fuente": "GAMINGbible",
-      "fecha": "2026-11-19T17:00:00.000Z",
-      "imagen": "",
-      "categoria": "Lanzamiento"
-    },
-    {
-      "titulo": "Mbeumo Posts GTA 6 Screen at Midnight Before Pochettino's First Training",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2a3NGWEZmOTMxaXFsY2QwYzViT3RkWGdfSlVMSXdFWndJRUpLZUhlNmIwN0RCeUxNRlZUdURlTzhhMnAyOXlLbmVFTFZxVHVpaWVaT2pKbFVIb21HZERNSWRTWTd4YXZOcGg1NF9DZVpxdVhoWG9XYXJDUjlNOGc?oc=5",
-      "fuente": "Yahoo Sports",
-      "fecha": "2026-11-19T16:58:53.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "La expectación por GTA VI llega a las aulas pese a su clasificación para adultos",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeS14VkNIdDA3Rnl6Z1gtMXJzVUlvVURvenhaQVQ0Y251cEpONzlLT092Q3EzOWR2QnEyUkpaT2RyQ1NFUUxqeWwtNEFicVNvWVdId3BIZXowOE41d3ZIWnZ1clpxbnpreEVDTUQzQ1BwQ1hrNlZHRGNXMC04QmJpdTYwX1FfMEFFbFU0WEFub1FJdnUtY0FEX2NYb29sTm5FOTR4Z0hhQURBSXNfMnFwbXB5UnQ?oc=5",
-      "fuente": "Magisnet",
-      "fecha": "2026-11-19T16:55:22.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Change these Xbox Series X/S settings before playing GTA 6",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmhqZ3Q0Rk5YM2JQZmpORVpiV2MwQ0xhMHB2bUFYTUJvMkVjRGtxaHVPdGJjMXVNbTBDZEFsamhSR1NNaWpkVTVlRTd1YUtGa0JoUVVXR2d2Ymd4WlhheGdLQ3JMT0lxNFhETVNHQzB4SlB2bDZkalFZeTJYcWNoY3M3cFNCQWM0dEJZODlsQQ?oc=5",
-      "fuente": "Engadget",
-      "fecha": "2026-11-19T16:55:20.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Rockstar explica por qué GTA VI no permite contratar prostitutas en su historia de pareja",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFk3MUY0QjVUTVpmUVZrclNNODdudThaZWZVS1BWTjl2cXdrX19RbVpCV0tFa3lSS3I5LWJjbnUzRVg5d0R2UUdQdWlLSms2YlJlb2hxM0pNUjVSYno4T2Q5SllXSFRaMWRZLUtzaDFwOFpBNjB4NjZqZkFET2EtQkljRktMZkFTck9QUHh4blFfZFNOZTNPZTJkWEJlYVZpenVWZ2ZOY1pJa1RuZzcyQjVnUQ?oc=5",
-      "fuente": "IGN Latinoamérica",
-      "fecha": "2026-11-19T16:54:54.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Así vive el mundo la fiebre por el Grand Theft Auto VI",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0JKMWNTNnBmc2pCODkzVWdZRzZ6dkx3MGxZV2x5Rk1PLVdZZnBFVkpYdGdYM3NlZmNhbklLVE8tNXhzUTdaUnRGRnFtcGVOU2gyendIc1V1Y3JlR2pIeHBfSG1Na2JMY2tXQmgtY2F4M0R5Y2xaa3lMLTA1MVdlbnpuTXAwT0ZFMWMzTXFIZ0l2ZUpXUi1VMmF5YlpkZGQ2bVo3RG4zVQ?oc=5",
-      "fuente": "Univision",
-      "fecha": "2026-11-19T16:54:00.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "¿Qué retos hubo para crear GTA 6? Diseñador de videojuegos lo explica",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVDh3T080eUplOXBTUXZFeHpnSkdSOGNHNGJVZk1WdVN2WU5oaWw4LUxSWlU0V2paWktQTk41SmJaOHI0REpoUm92a1NhYzNsSnczUjZiVE1kaVBIQ0M2Wm5QQnQ0ZUJOcl9CdEw1aGFoMUREcUhjOUNNSEdvaHVlMV8tZnNtY2s?oc=5",
-      "fuente": "CNN en Español",
-      "fecha": "2026-11-19T16:50:22.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Take-Two set to shatter sales records as 'GTA VI' launches to massive fanfare",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONUF6bm1SdVF6MDNJX3VvZXF3d0pzLVVoQXJxUTJEZ1ZqaGszRTNTOWNPaXRrOXhFcEhJeGJfT2V6dkVocUxyQVZaXzlQOXFtOVJZMER1WmxMbTN5VXFqMXJfbkhabFNtd1VTbnJ6dGVVSlJua2EwSGRYUHk5QmhtaXhaWV9NQWFSalhRZU5takkwWkNzeGV1TWpFRVBtWmJvbEFMLUhpZEJDRXl2Y3FveFZn?oc=5",
-      "fuente": "Reuters",
-      "fecha": "2026-11-19T16:48:18.000Z",
-      "imagen": "",
-      "categoria": "Lanzamiento"
-    },
-    {
-      "titulo": "GTA 6 Review: Vice City Feels More Alive Than Ever",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNHVLRXdBOTBYWjJmU1NuY05YcmduXzhnUTZTT0xtMFpJanp1TW91LUpuaXRac1FIX1FtTjZNOFJnZ2xIRHZpSkY1ZndJVHdhZUlpTUY3UnJwUFVHTzVSOGt2Q0pmU24ySW1kZkNSRXBrVVkyMk42aFR1UGg1WTQxQkpzLVYwMVRKRVI4UHJ2YUFTZDhoOEZpc0xESGRrQQ?oc=5",
-      "fuente": "Newsweek",
-      "fecha": "2026-11-19T16:37:00.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "¿Qué efectos para el cerebro tiene el jugar el videojuego GTA VI?",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaEp4SEZPSkZKQmpWRlJxZDVBRFBlMmdVUXVpRUpWeV9lMnd5MVRKN3RDbkFCbXJndmVDamltSTB4M2ZEdWFhTmdNakJSdGVnUS1XRll4ZXVVc1hDdlllSjBSbW5vM29ja09Zb3pJRnBDVWQ5TGxFUG0yNzZOXy1Zc1hwUDhUT2JWZWRzYnNTejlnU0IxczZQdWNtQkJKa1pscjNPdzh5eUVNQWt1N0FDQVEyQ0VyUVlpT3VwdGxB?oc=5",
-      "fuente": "Su Médico",
-      "fecha": "2026-11-19T16:34:29.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "GTA 6 debutó con censura en este país y los jugadores están decepcionados porque no pueden ver a Lucía ni a Jason sin ropa",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaHZpdDBzb0p2WDRyUGRBWEh4WWtLclJPdGJFaXVUbGZkTE96M01UTUFHZjl5bGlMaG1wUFFvd3BxLWc2amFINnlpLW5xLThhMU04b2Vab3ItX3hldGJzUjJsSVYwM2o3MUpROExKQy1ZX21BZk5uM1dxVDVrNjRPTjlVWlE5QVljQjRj?oc=5",
-      "fuente": "Yahoo",
-      "fecha": "2026-11-19T16:32:02.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "I Am Obsessed With GTA 6 Jason’s Literary Choices",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qYjlUZ3hJd3BXNFBORk16VDFoNXhPTXMwbk1WQkRhUERFSmtzeWllUjc0ZU1rZ0dpTW9DZjF2VWhNS3RCWFRqZkZaQ080UmxpeGFlZ2h5bm1ab0xQUWJDWGRiY1JNQXQ5d0lUQw?oc=5",
-      "fuente": "Kotaku",
-      "fecha": "2026-11-19T16:30:59.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "La isla de los perros de GTA 6: dónde está, cómo encontrar al perro motorista que te lleva y qué secretos esco",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUGMzbWxXc2xxWlFCZGNFbUZxQ3ktTzAwYUl4M1lKWk1xSVBNZ2p6QV9zM3Nad2ZUclFOclB1S1VEcFZYdFk4M1IzVEs4SVZURU5wMWpvcU5iNlRVc1FZQkNocXk3Qk5jYXhhTUV2aXBNOHFwdXhDSnVDWEZsUzRTdmRhRWh0TXhsSXZKN1VQMVNCT1BNM3hrVUgxVjBEX2FKTGpVenNMZG1qUHZtRlBJbGZUaGZyZ0RwRDNMYzdFRjRGeGJwSmV6bDJpQUtMTktndk5PQTNvNzVKWWE4V2xNQ0FvR1p4VHVvNTBVODhnOHhUU1HSAYcCQVVfeXFMTUJBWUdIcmp6X3hicEktOWZONFZkUldWbWtOLXpRT3JvNm1oT0FFX0REdHlUSGxxdWVVSF9Ub3dzSGF5VVN5TEpsSndsanVpQktHN0Y4dk5reFBuSnk5OER5TWR1d3BBSWV3bFdNcVduZk14VTNYTzE4Q3ROeTZieHhMS1FyelFabHdJc3FxQTQzbVltWmtaeFZmODd2UktxZVoxenJ0Q2FEd3YxWGM2ZE40bXZxWTZJNmZGWFRWNVhXbFBCamNleEhoOUVHY2pkNExfdUhWQ3NNQ2QwRTE1dUY3TmR4N0ZzQ3JhWDVOcWkzQVdyRXhSV1hYb2hCQzl1dUlvTkNYYlU?oc=5",
-      "fuente": "Diario AS",
-      "fecha": "2026-11-19T16:28:50.000Z",
-      "imagen": "",
-      "categoria": "Trucos"
-    },
-    {
-      "titulo": "GTA 6: Precios y ediciones disponibles en México y cuál conviene más",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc1dIbWZCVGpGdHViNkJQV1BueGI3aFFhQkJBdmZHMTFrWWY1czVVQlV2NHN4U1JCRmZLYjF6TUUxWmlKZDhBbHcyV2cycVZVeGNtMTJ2a3NOdjF6MzRtOG5lYmtVNVRxOG5GTjdBZ3Z0MmFhYVBfYzFXN2lHV0VTbW5hWUMwN2JZZmJGVmwyWE56MGZEZTY4?oc=5",
-      "fuente": "Revista Merca2.0",
-      "fecha": "2026-11-19T16:27:25.000Z",
-      "imagen": "",
-      "categoria": "Lanzamiento"
     },
     {
       "titulo": "GTA VI llega el 19 de noviembre de 2026 a PS5 y Xbox Series X|S",
