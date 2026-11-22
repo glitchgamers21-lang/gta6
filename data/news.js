@@ -2,19 +2,55 @@
    (GitHub Actions lo reescribe cada pocas horas). Los elementos con
    "fijo": true se conservan siempre. */
 window.GTA_NEWS = {
-  "actualizado": "2026-11-22T13:09:23.887Z",
+  "actualizado": "2026-11-22T13:36:38.188Z",
   "items": [
+    {
+      "titulo": "GTA VI rompe récord: US$3.790 millones en un día",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdTV3M1B0Y2xuTjNpckl5V1ZSbTREUWl0eG1GUzdqSnRod09kWG1POTdIWlVzQmRUSkVsTkdfTXhZLTJBRFdYUV90SWFHa3dwRmgwTWlrMEhyV0Rzd2szTjVHMW1idDBKRkdGS3hTWm96MFh5ODZHY2hGVFdEQmdTMVNUbw?oc=5",
+      "fuente": "El Ecosistema Startup",
+      "fecha": "2026-11-22T13:21:44.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
     {
       "titulo": "Rockstar cifra en 3.790 millones de dólares las ventas de GTA VI en su primer día",
       "resumen": "",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNamZFNGp0dUlVOFlIc0dyT0VmZGI3ZG81ajJkR3NSZi1TVm9qakZjY2hyQ3FJSFhXRC1QelI5Y3VqMEpMWjhFbzdMdVZicmZRWnp4WWo5a2JqbzlyNmxlWVQteTVJM2stTUdScVF2LTl3ZmNQSHZKc3ZzdnRuYW5RVDRSb3lUN1k?oc=5",
       "fuente": "WWWhat's new",
-      "fecha": "2026-11-22T13:03:56.000Z",
+      "fecha": "2026-11-22T13:13:25.000Z",
       "imagen": "",
       "categoria": "Lanzamiento"
     },
     {
-      "titulo": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
+      "titulo": "Mientras GTA 6 es un éxito en ventas, 1.600 empleados de Rockstar temen quedar sin trabajo",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXp5ZW1QdG8tSDJWYTlXNlBXMktPcVd2amVpN1RCbGVUbS1oVTlKc1VCTTl6VmJfVXhtejBqT3JGcjRBc1AyME5oME54NVlGOFpqZHFGVVhrOHZ3NGhZaS1FaWdPYktELVNSb3daSEtpUUplZGhLRHItU0VkZ0FteF9sUzFVaVNTZlFSOW9HTmxnUHkwUE5tMmt5S2RFbGdlem9WRXpiUUQ0NVQxSlB3SWtFdXVTcTZUTGtTa3ZtU0FKbEwtOW1Cb1Bn0gHkAUFVX3lxTE9Zd3hBSTBmcWFTa1A4RlJjNGUwUkw1SzNMNXJJRUw5cll4ZDZlSXJXelpwZDBJcWdqX2pPZU9ra0N2QlNSTlRpYmRoZjJPckUwTEozMWdNcjBoNHNuM3A0VENTMlgtdDRBWHVCaGNjZWhzaHNCQ1hxeXQ3RXZhbm93ZFhreDZaWFRwNGZaa1RWRjl2VzlwWmpkVFN4bWxrTUh3cU52X1Z4NlFEeU5wbVVOTTUxLXlIM2RaWTlTb1VPTko3TnpyS2hVa0ZmZV9mcEwzZGxhSUhobUstZFBEX0FxVTBxVg?oc=5",
+      "fuente": "Infobae",
+      "fecha": "2026-11-22T13:09:00.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
+    },
+    {
+      "titulo": "‘GTA 6’ Shows Brands What Happens When Creators Run With An Idea",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFhtXzJFX05UdGE1aTIzc3hPSXg1ZGQ0TnZWZUUxak00dDdTVlhtd3JjRWd6aVhDVm0yeXUyV0dpcVh6blZKMjNCUEZmQll1YU1QRjhrNVNsenp5eEpZVno0eFgzSHJHUkFmalJWa19iUVNKSE9YZmpWM0loZGcyRkpnTm9LRHZQd0Fnem5SVmlHbHpzN2dBb2I4UzZodHpnOGdMUTNNVjRWVGthR3BIQ1pwLXRyYWM?oc=5",
+      "fuente": "Forbes",
+      "fecha": "2026-11-22T13:01:57.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Lista de todas las misiones principales de historia y capítulos de GTA 6",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGpUTl9DR2R5RTJGMlBfU2xmbFZ4TkhPZzZVamJLdTg3WlMwd2RwamVaMS1lc19jejBwN3A4N1o1LUROb2I3LVJyN3U0elM5RUFoZVBha0hGNkJnZDJfdEY4MjlhMTFpbWNrZEZla21FNTM0bUJrN3BOdHFBQy1OaVN5TWZEUTdmTmtCX09XamxKT0s2YWZyRjF4ajFlWW1YMUtnSw?oc=5",
+      "fuente": "Eurogamer.es",
+      "fecha": "2026-11-22T13:01:50.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "I tried to play GTA 6 without killing anyone, and, well, you see…",
       "resumen": "",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvY1hfc2M5ZzNDVzkxa1J1V1BzWE9CSzVvcXBVdDlDTlBwVE1TVkJLc0RqcWpwc0laZWlTZnkwSVlqN01CTGRZSEFrWVpiZkJqZVVfSHlkV2hSRllvUDhUbUVDX3FKZw?oc=5",
       "fuente": "Polygon.com",
@@ -111,6 +147,15 @@ window.GTA_NEWS = {
       "fecha": "2026-11-22T11:30:00.000Z",
       "imagen": "",
       "categoria": "Noticias"
+    },
+    {
+      "titulo": "Jordan proposes GTA 6 ban over child safety fears as game breaks sales records",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZk8wTXpnaUFOM0NPOXR6VkNpa0xSZjk3a3VnOElzOExwOVRvSGppb3htelI5T2VxdXZnbVNUeDcxazAxRkhxX2w3aWxFaklHeDhRaTg0eWUzX19nbXFSeXBFRTNpY2ZOVU8zTXNSNXF2UnkxMk5TNTlHVXREbTItX0hEeTV4dllDdVFEOGZZendITl9XRmNCU05KanhsZ0YxQUFjZFZiS0FqSDFWV1VKSk5QM1I4TGhSMDNEUlZBR0F0NFJycmg3dXBTdEc1LW5QeHFiWHFoNDQ5VGpiUTRNYw?oc=5",
+      "fuente": "The National",
+      "fecha": "2026-11-22T11:22:51.000Z",
+      "imagen": "",
+      "categoria": "Lanzamiento"
     },
     {
       "titulo": "La primera torre de GTA 6 alucina a un experto en torres de radio reales: \"¡Contratuercas dobles en los pernos de anclaje, tíos!\"",
@@ -253,15 +298,6 @@ window.GTA_NEWS = {
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UVXlwTDdWbXhSTTlLdUhRNFVUWHBPeXhpZWxOUVRrbUd6QWpoaUV5UVpiRlJ2TFRTT1BNdHRQdmdaU0kzMlpXaUpmRENkNzBpendPa05UVk9XRDNNN1FudW94MF9jWFc5R2hwa0dB?oc=5",
       "fuente": "GQ España",
       "fecha": "2026-11-22T08:48:00.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "GTA VI Shows Brands What Happens When Creators Run With An Idea",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFhtXzJFX05UdGE1aTIzc3hPSXg1ZGQ0TnZWZUUxak00dDdTVlhtd3JjRWd6aVhDVm0yeXUyV0dpcVh6blZKMjNCUEZmQll1YU1QRjhrNVNsenp5eEpZVno0eFgzSHJHUkFmalJWa19iUVNKSE9YZmpWM0loZGcyRkpnTm9LRHZQd0Fnem5SVmlHbHpzN2dBb2I4UzZodHpnOGdMUTNNVjRWVGthR3BIQ1pwLXRyYWM?oc=5",
-      "fuente": "Forbes",
-      "fecha": "2026-11-22T08:42:45.000Z",
       "imagen": "",
       "categoria": "Noticias"
     },
@@ -658,42 +694,6 @@ window.GTA_NEWS = {
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaWU5NXRfOW9femFOaEpqQnRPZHJpZk1VbFB1cE9vektoemJKUVM3VUJHSkpZZFcwMnNIMUp5MFpOLXJlNmplcEk0dzlzTURQSlAyQTl1amMwd0sxVzRpS0JmZ3hPRnJhYy1TLVhsRXNoWW9rbzNZSjBjQ0RpdkQ4V2FwWkxOZUZBYWtvZl85V21LdG1VSm51MDR5LW5rSUFpcllYbkl5SzBaSjFBeUhUcnFBV1Q0bDMtNUtEYWk2QVLSAdsBQVVfeXFMT1VMNHJOR29WNGRqdkt3U0N5NnJkUktCSTRoNk1Vb0htc09mLV9SWDBPMWs0Ukpab3NZZGVWRjM0alFOa3R5S0NIdXhRSUZaZUNsUjdQUXRnUnhkWVhSZDdyZ3VXdkotWS1MYjIzRkU0VzlDM1Q5dVFHQTF6ZHdVV3RCV0Z5YWktMUdsNGlnakFTVDRtaTJSSXZiLU93eTBfbElkU0tZQ1NsMko5VWRxOXIxSmFZUlI0YkFTeEJMdkZyaWMxYXIwOVVJSkxCRUNWVGRSTVBmdVBUMm1F?oc=5",
       "fuente": "Infobae",
       "fecha": "2026-11-21T21:18:00.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "GTA VI transforma los videojuegos en una simulación de la vida real y rompe récords de ventas",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGlUd3NIV0lYaW1YRXltNHd1bW1HQlJhZUdwLVlyR1JXRGJPUHBGVU1yOThjcFlUTFlHd1lqRXQ2al9iRTBOY3A0cTBNOWttUW9mUDYzSnV1djlmaklhZmdVVmhZOWZVWkVLVUdlcGhZZWpEeHZGRTBPa2FESm5TVlNRcjNLNlp5Sk1rS2F0eW9OZnpZemxIOFROS1lxRG1hcHNhRnFmZjdfTDRSdmc4dXBEcWtVM2hicjlhZC1MQnQyNXVvb1HSAdoBQVVfeXFMTW5wRUVvejJ4R1prMXZndEswOEladG5KOElmX0RoNTJNUGE4SmNIQ2dIeUNUb014akxtc2hSY2o1MW1OckxZOHM1YzlqQkhJUFRpXzhJZ0k0Ykx1SFN1Y3FVaWpPQjBnWnJXQ1NpckFWUVBSOHo4Y2lZYUl0SDJsZ3E1V0huUWh5aWRPWHlhQU5MSER1Y3gzdVlrREptNlV2UWw5amQyRmtKb3F0RVB0ZnZNQ3BoeWozUXpMcy1ROS1MNWtfWUFwQ2czSFZ1NFREc0Z2QXVDT1NVOFE?oc=5",
-      "fuente": "W Radio",
-      "fecha": "2026-11-21T21:06:33.000Z",
-      "imagen": "",
-      "categoria": "Lanzamiento"
-    },
-    {
-      "titulo": "La economía de GTA VI",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPenBmZGpJVFktQzE4UkpuNFBfZUx3WXdud2JfM3dTSk4tcU8xOER1XzFDeFFfMXRHdW5uaFI3NERZd0V4Q3plZlRhdElIbmw3N0J0djRnQURfU0lxeW9obXo2Q1JuNV9fSy1BanhKM3hUYlpPc2NJY3pfZTE4OHhfLUVxQXdiRjgyVXk5bg?oc=5",
-      "fuente": "Tribuna Económica",
-      "fecha": "2026-11-21T21:03:27.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "‘GTA 6’ Cited by Trump’s Education Department in Transgender Sports Debate",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUElsLUk3VE9BZ3FSQzIwenlrYmp2eFZ5ZkNQa0pPWVk1ZHJfRzc1R19Ob0hDcVp2bS00Sjl0MzREdkdVODYwS21mTHhySXBMWTY4d1lNUXhWVi10QWdhS0Izc3J2b19tSDhwbWlrT0ttNzFUZTJEeUdBZlp2bE9Ta1JHVXpVcTIwczYtZmQzeERuR1RfYkJldkduVWhPT2xqa2Z5bjB4U2o?oc=5",
-      "fuente": "Newsweek",
-      "fecha": "2026-11-21T20:57:00.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "Neuralink muestra a un participante jugando GTA 6 con la mente",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3FsdUhHQXQwb1RrNzd4ZVRXS1FSX19CcUZINmJ2bEpaaWhwYXNJVlNZbzJqNklyQVRDZmJ4eGtpaU14akQzY2FZU2g2MmhQQ0JDd0h1bFVYNHVTRVRSRE5PNUFGb0FmNzY3OHluN1NpRm96WVY1Y0l1TTBOcEkwMGZIQ25hYV9ZZjJXaHhsd3loeElLTHYydmVncjJKT3FGVVp5dzFRaw?oc=5",
-      "fuente": "DiarioBitcoin",
-      "fecha": "2026-11-21T20:55:12.000Z",
       "imagen": "",
       "categoria": "Noticias"
     },
