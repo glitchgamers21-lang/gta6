@@ -2,8 +2,62 @@
    (GitHub Actions lo reescribe cada pocas horas). Los elementos con
    "fijo": true se conservan siempre. */
 window.GTA_NEWS = {
-  "actualizado": "2026-11-22T07:25:14.849Z",
+  "actualizado": "2026-11-22T09:58:08.494Z",
   "items": [
+    {
+      "titulo": "El videojuego que tiene en vilo a Hollywood: por qué el estreno del GTA VI preocupa a la industria del cine y el streaming",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPREI3RUZaVjBld1JheU1SSGI1anp1ZDJqOTZFN1Nxc05mSG11OGprRG82ZEttYjJtSXRzQkljU3BkeHF4QVRnTkxxbF9POTRYOWdiSlFiOE5qQ1NQY3F3eFVBcy1vTC1VYldJLVFZeGpMSjdsNl9wOFk2U2V6WDE4aUN4WU1udFVPa01SbkJWUy1kaXMtVTdQam1ETUtYWHMtSHFqWUFXV3ZTTk0tMHJnSXpFcXB5UWxnWXFZSl96Y2NFbE5ubUxF0gHMAUFVX3lxTE5sRFFjdDJuQUF5aENiSjNwYXFMTnNqZkpzZnBFLWZKZy1mWGNBYTZkMUpaVjZsWU15TGpueEN3TDI4aDU1NC0wNVFkU0FVWW92LXhjcy1iUUxfOHczZGF5UXFmZjV5bDdCZ0lSWVFHcDlrQWY0WmsxODNZTnRobnhreUxxMDhBbXFjQVRoQjJNRHItZzZ2WGNfaTlMVHpRNmlNT3FKSVRBeHVMY0JERTlTaEI2RmhUSEZyQWI2NFQ4bkJBaHExRGtBZnRFUg?oc=5",
+      "fuente": "Clarín",
+      "fecha": "2026-11-22T09:01:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "GTA 6 muestra unas réplicas de Nike que van mucho más allá de las clásicas Air Force 1",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UVXlwTDdWbXhSTTlLdUhRNFVUWHBPeXhpZWxOUVRrbUd6QWpoaUV5UVpiRlJ2TFRTT1BNdHRQdmdaU0kzMlpXaUpmRENkNzBpendPa05UVk9XRDNNN1FudW94MF9jWFc5R2hwa0dB?oc=5",
+      "fuente": "GQ España",
+      "fecha": "2026-11-22T08:48:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "El culebrón del review bombing a GTA 6 se recrudece, con usuarios dando notas bajas a Ocarina of Time por venganza",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTFE0YnVTTXpYZTUzSElsNk9RMk9Gc2JQcHc2a0dmU1k2MjZTSURzbkdLX0szVHdjWFB5LUYtZnA1NmluUVY0akY3dUFEWGlTdEU3ZEg5bW12RE1oNmNSUDV3SkJUdXA4WnlLS2ZCQnNjWHNpUENjci02a1hoMXVSSVdVMmR6aklZaDdfdWEyTGR1anJYVXZ1TndxRTRzaV9wSlRwazBpbGNFWVlSOGpiXzRfdTE3RnM5NDZuNTluZmJlNzFRUlhJQVNpTmJwR3p4ZHJRZlgtem9GeFNNbE0waWhBNTNlZXh1QnhzMi1GLXc?oc=5",
+      "fuente": "Hobbyconsolas",
+      "fecha": "2026-11-22T08:33:31.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Dylan Rourke, Manni L. Perez revealed as GTA 6’s Jason and Lucia voices",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeHJpZ3RwTmJNVFdWTFo3NWhtdUQ3LUJORzFkb00xOFJyeHQ0RVhmaWJZTVJRRmxLWk1vVEFMUWZOMGlhUXpkb1g4bnRFX0VCc2J5eUNHQk41WE9VVjVxOV9RN0tMZDFsdnhZLVpkZHBya2xvQ2MxZUVmMUtqcko3Q2ZMTThZb1g0VU15NmhoNGpGNGpWVFQ2YWJhaWhhaVpzVzk0TmZSZXFEN29zN0NDYVlOTDgzaWF6TGMxTnhLckRaWkVx0gHEAUFVX3lxTE5DVkRTTDBiWm42OUFSNjE3a0xWYnFVaGMzNE10b0N2YlF5MXR5d19MT2lEYWJpNnI0cUNucnRSdDkzcmZ5eFJGVFd1c2lkMTVxNF9nRmpCX0V6akFFMDh2V25XR19RN3lrdW9vWFdJeDRSd3Rqck84R1h4d1BtUDVKY1FKVFVnbUVlckJDQmJDZFRwdHZtZm1nb2FxaHVYSEZ1dUdFZW45UDIteGVlSkt1MHhyVjNidERnbV9XSTJreXY2Y1Q?oc=5",
+      "fuente": "South China Morning Post",
+      "fecha": "2026-11-22T08:15:05.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "GTA 6 bate el récord de tráfico de Comcast, casi una cuarta parte de la red",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkVuUWhlWTNqODN0MTBfbEwxcjV3eG1iOUpKSHp2eE9ESlZYRWNjYjFnYTFXSlNUT2hxeDlBVGFxQXVkcWZGRzFYd3FRUWhTRmFYTDdzaF9aRGRCUktNNUEtOXA4YloxcDQ3MnkzT1RzNG0teGNDdktOOFdsZWt0T3gxUkZLYkxCLWtVZUJNMWlQVnc?oc=5",
+      "fuente": "Pasquale Pillitteri",
+      "fecha": "2026-11-22T07:34:50.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
+    {
+      "titulo": "Los aciertos y errores de las nominaciones en The Game Awards 2026: GTA 6, Crimson Desert, Onimusha y el GOTY español",
+      "resumen": "",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNXFKVE5pMEg5MU5wLXZydFFKY3U5V0pGZ3BzMmRLeUZUTjc4T3Y2dTRYYVhraERVbkg4Y0dzRzZpY2IzaWVLYnRaREw1ZkVrb0pZcV9MbDY2amVqd1ZXM3ZLN1F4Ql9KUi0yUEYyT3ZWdzBFX2pjSFZqekdTSk5YTnl4dEFfWFRPSG1KQy1JQkxENkUzeUJQTTNLNkZOQkxJU1pMVFlPeW5iS0xoN0tJUW5DWnRHc25PbVZJM0NMUXZiMC11T2E4bWNOREdybUFpVWdZWkt5WVg1ZUZNblVub2N0UmNoLW05Mng2TmhuMA?oc=5",
+      "fuente": "Hobbyconsolas",
+      "fecha": "2026-11-22T07:30:00.000Z",
+      "imagen": "",
+      "categoria": "Noticias"
+    },
     {
       "titulo": "«GTA VI» arrasa en su estreno con 3.790 millones de dólares en sus primeras 24 horas",
       "resumen": "",
@@ -642,60 +696,6 @@ window.GTA_NEWS = {
       "fecha": "2026-11-21T18:05:21.000Z",
       "imagen": "",
       "categoria": "Lanzamiento"
-    },
-    {
-      "titulo": "Todos los actores de doblaje en GTA 6 - quién pone voz a cada personaje en Grand Theft Auto VI",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nYlNuTHVUaWEtdDNqRFExME0ydlN2dklGTDg3WlNiRTh3UmhyMnBsUXdwWFZpWjFoZzBtWHlBY3BrNmJjczc3YVgycGRldUM0bW93Zl9IazBkZU16OHNicC1qcWRHcURvRHk1ZGE3OU1ZMzN2VFoyclRkd0NXNTA?oc=5",
-      "fuente": "Eurogamer.es",
-      "fecha": "2026-11-21T18:03:50.000Z",
-      "imagen": "",
-      "categoria": "Noticias"
-    },
-    {
-      "titulo": "GTA 6: las mejores tiendas donde comprarlo y cómo conseguirlo más barato",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT0R6aWNsbXdVN09uYUNZai13OUI1ZUNmMzh1U1M2SGVUZ054MXZrclRXdmUwbXozcDQyNVlZTUZCNUx0VDJTZGNUc2s1QkJNYlBldkFRYWw1VUR0dTVFeElsYkpjbHdZdjRLZ2hPc1JUUG40MEI5ODQ0RTByd2IxaEdZdkw?oc=5",
-      "fuente": "Topes de Gama",
-      "fecha": "2026-11-21T18:02:07.000Z",
-      "imagen": "",
-      "categoria": "Guías"
-    },
-    {
-      "titulo": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVnhMTFprS3k2LUFucUNDbkJDTkFURVJmdWZiWHoyUXdMYjBIT09QYXVPb1JfN1lNWFJJWEZ4ck9EVU1sVTBYOW0ybFBoYzU4b2I4SGRIempSeGFIYzBnM25LaTh1bzVaekhGNUNGOW1YMVdhNGEtRHo0dHE4YU0xRUpHZw?oc=5",
-      "fuente": "Decrypt",
-      "fecha": "2026-11-21T18:01:02.000Z",
-      "imagen": "",
-      "categoria": "Rumores"
-    },
-    {
-      "titulo": "Cómo dejar el vehículo en marcha al bajarse de él en GTA 6: prepara tus huidas perfectas con este sencillo tru",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd3JOYl9rNV9DVUpxRWtWRzMtV2NQd1lDaW5BUzBlYzFSLXlsOFpOVUFsWEZDdUdMeDN2YnJsdUdDRDhoUkNwMldMbTdsdW9aNWRJSEtWME1Wd3lMbTFOczNVaXJNTU1CblhEYWNlaWpaR0pWVjNCQ1lqUWNEQXc2OEw3bTRmWTBLQ2JqVEpjQ25lemNRNVI1OVI3aTRJLVg2dGEyb0RSV01lX2dWNGw2bEZOeTdDZVVKb1pVQl9lTXgzN2IyOGdUeWo3bE1hZTRQV1l4LWd2MVFqSEJtamJJX29YdF9JSmpKQXQydWRGd1JmOG_SAYcCQVVfeXFMTnAyaW9rZW9KSER4UDZoWjl1VVdRQ2RtRHVxeU45MmZwc2dvT3NXeG5JQWx1Q2lXZklfN255UGtlMnVSSzhaVENWNDlZOF9rZzNka2QwU3ZFN0VBdEdrMVBDcTBKSVpXZHBDcXVkZ3N5M1VWdE9BM3AwR1dtRVhlaUs0R3pIb3lSZ0lGZ0ppTHl5VGNhQzNySnFLWjZibFBEQ0FldGJRc1pYVmhqam13enhsUEtuTUxnek5ieXN1Tm1XRjB3TzFLdVZ0cDZDaEJnMFpoRENlVG9KdkoyZ1pMc3MzY0FOdkFENU1xU0dicExXLVRHMU1waERhVUdydlpFNHpYUFlXanc?oc=5",
-      "fuente": "Diario AS",
-      "fecha": "2026-11-21T18:00:14.000Z",
-      "imagen": "",
-      "categoria": "Guías"
-    },
-    {
-      "titulo": "GTA VI genera 3,790 millones de dólares en su estreno: ¿cómo consiguió romper récords de ventas?",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaF9DUnQyZnpTSEtYRUV6bkpmME1SRDVZbjVMTlA0MFpOMHJlaXpCVEZxNnNVeGs5N05iSDJkNm50NWgyRGp1QTkyVTR6N0pZZlJsSmlJNXc2cHlmTmZORkZVdzRMZFFZcnRLUGxCMkoxeVJHOHF0MEgzNjNYcGw5RXAyZUU0V1hpcEtLcmdnNlp5TFJNcXVzbGRBbmdWRFJTbzZmb29EODhqQlo1V0kyZksyQ0VvYkpsa1JiTS1Wazl2RVdPUzlrYVlqZWhXVmpKaG4xNTAxRdIB3AFBVV95cUxPdWtGLXFrb3JlNU9tSmxBOXEwcGpGUFJ2bmRmUFBTOTdwOWN5ZmZkVWZUT1IxbTF0VFpIWUI5eTZHVVRsRzU3WnVaRTVraHBWcXVTRnFEOEJEbmZKUTNuSml3RjMzcEl2bGhPSFBpLXRaV3RlUGZtaUZzNGVicjNYVFJQVFd2ekktYkZVZWVPVHdGY09vVU9TVzRkUTNJZ09iajI2NmpaWlUtZnBOMTI1cFBQN0k4OVp5SVRhbDhmN1J4TmI0Uko0Y2dXNE43RUFTenV4c1dUdF9rTG5F?oc=5",
-      "fuente": "El Economista",
-      "fecha": "2026-11-21T18:00:00.000Z",
-      "imagen": "",
-      "categoria": "Guías"
-    },
-    {
-      "titulo": "GTA 6: cómo conseguir un garage y guardar tus autos para siempre",
-      "resumen": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYjhzdGd3Yk9INmJiMnQ1cEdROTJNT2RUVmRoR0RlY3VTVWJvX19HTzRwLVZJT0J0Mm9yak9URi1rMDBCb1pwb0ZSNDRNLTA1alI3TDFIQk54Y1hHcFBrMFhiTDFwa3ZpN2xoSmxrc2tLR0M4WW14aDRGR24yVUV1bnZ0UmluZ0Y1eWlaUmVoTWo?oc=5",
-      "fuente": "TierraGamer",
-      "fecha": "2026-11-21T18:00:00.000Z",
-      "imagen": "",
-      "categoria": "Guías"
     },
     {
       "titulo": "GTA VI llega el 19 de noviembre de 2026 a PS5 y Xbox Series X|S",
