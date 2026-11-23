@@ -2,6 +2,6 @@
    Solo se incluyen videos que mencionan GTA en el título o la descripción.
    Para añadir uno a mano: { "id": "ID_DEL_VIDEO", "titulo": "...", "fecha": "2026-11-20", "manual": true } */
 window.GTA_VIDEOS = {
-  "actualizado": "2026-11-23T07:49:55.330Z",
+  "actualizado": "2026-11-23T10:24:59.320Z",
   "items": []
 };
